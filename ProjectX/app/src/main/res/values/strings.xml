@@ -1,0 +1,1672 @@
+<resources>
+    <string name="app_name">ProjectX</string>
+    <string name="s_translate">Çevir</string>
+    <string name="s_translate_g">Google ile çevir</string>
+    <string name="s_tag_it">Sözcük Türleri</string>
+    <string name="s_close">Kapat</string>
+
+    <string-array name="titles">
+        <item>	Microbial Diversity and Soil Functions	</item>
+        <item>	Hans Christian Andersen	</item>
+        <item>	The Movement of People	</item>
+        <item>	Volcanic Eruptions	</item>
+        <item>	What is Chemistry?	</item>
+        <item>	How Global Brands Compete	</item>
+        <item>	The Development	</item>
+        <item>	The Human Record	</item>
+        <item>	In the Shadow of Vesuvius	</item>
+        <item>	Athens and Sparta	</item>
+        <item>	Art	</item>
+        <item>	Leonardo da Vinci	</item>
+        <item>	Archeological Finds	</item>
+        <item>	Bone loss	</item>
+        <item>	Moisture	</item>
+        <item>	The Forest Decline	</item>
+        <item>	The Renaissance and The Enlightenment	</item>
+        <item>	What Causes Erosion?	</item>
+        <item>	Dancing	</item>
+        <item>	The Evolution of Life	</item>
+        <item>	The Cinema	</item>
+        <item>	Rocks and Fossils	</item>
+        <item>	Jane Austen	</item>
+        <item>	The Ottoman Succession	</item>
+        <item>	Japan	</item>
+        <item>	A population	</item>
+        <item>	Huge Ice Sheet	</item>
+        <item>	Kinds of Wild Cats	</item>
+        <item>	Employment	</item>
+        <item>	Genetics	</item>
+        <item>	Drug Addiction	</item>
+        <item>	Global Warming	</item>
+        <item>	Scientific Method: Defend the Integrity of Physics	</item>
+        <item>	The Effect of Television	</item>
+        <item>	Hypocrisy	</item>
+        <item>	Africa\'s Food Crisis	</item>
+        <item>	The cities with the highest temperature	</item>
+        <item>	Worm Types	</item>
+        <item>	Diseases	</item>
+        <item>	Literature	</item>
+        <item>	Our Power	</item>
+        <item>	A Bigger Rice Bowl	</item>
+        <item>	Noah\'s Flood	</item>
+        <item>	Antibiotic	</item>
+        <item>	The Management of Rivers	</item>
+        <item>	William Saroyan	</item>
+        <item>	Mount Vesuvius	</item>
+        <item>	Flood Myths	</item>
+        <item>	First Aid	</item>
+        <item>	Parkinson\'s and Alzheimer\'s diseases	</item>
+        <item>	What is a Nation-State?	</item>
+        <item>	Individual Bilingualism	</item>
+        <item>	Chronic Psychological Stress	</item>
+        <item>	The content of rocks	</item>
+        <item>	Carston Town	</item>
+        <item>	Why Are We Warm-blooded?	</item>
+        <item>	World War I	</item>
+        <item>	What is Classical Music?	</item>
+        <item>	Martha Beall Mitchell	</item>
+        <item>	Immune Deficiency	</item>
+        <item>	Gunk-Free Fiber	</item>
+        <item>	Causes of obesity	</item>
+        <item>	Edith Wharton	</item>
+        <item>	Body Language	</item>
+        <item>	The Film	</item>
+        <item>	Gas Emissions	</item>
+        <item>	Marketing Planning and Strategy	</item>
+        <item>	Fungi	</item>
+        <item>	Civil Engineering	</item>
+        <item>	The Language	</item>
+        <item>	Companies	</item>
+        <item>	Charlie Chaplin	</item>
+        <item>	A Sensory Fix for Problems in School	</item>
+        <item>	Primary Dental Care	</item>
+        <item>	Laughter	</item>
+    </string-array>
+
+    <string-array name="english_1">
+        <item>	Despite bacteria’s presence in all parts of the planet, their diversity in the world’s soils is poorly understood. 	</item>
+        <item>	To better understand what makes the organisms thrive, Duke University researchers trekked far and wide to collect a few centimeters of dirt samples from 98 locations across North and South America, then analyzed each sample for genetic variation.	</item>
+        <item>	To their surprise, the strongest predictor of high diversity was neutral pH.	</item>
+        <item>	The acidic soil of the Peruvian Amazon, for example, harboured far fewer bacterial species than did the neutral dirt of the arid American Southwest.	</item>
+        <item>	“There are a lot of variables that didn’t turn out to be very important, ”says the researcher Robert Jackson, who adds that a more complete search for different habitats might turn up other stimulators of diversity, such as carbon abundance.	</item>
+    </string-array>
+    <string-array name="english_2">
+        <item>	Hans C. Andersen The Danish author, was born on 2nd April at Odense in Funen. 	</item>
+        <item>	His father, a poor shoemaker, was devoted to reading and thinking, but died when Hans was a child. 	</item>
+        <item>	His mother was a simple, uneducated woman, who after her second marriage sank still deeper into poverty and took to drinking in her old age. 	</item>
+        <item>	Andersen, who loved her dearly, has told her story in \'She was Worth Nothing\'. 	</item>
+        <item>	His grandmother did her best to spoil the boy, who was given to day dreaming. 	</item>
+        <item>	After a very meager education in a pauper-school it was intended to apprentice him to a tailor, but as a fortune-teller had foretold that Odense would one day be illuminated in his honor, his mother permitted him to go to Copenhagen, where he tried to become an actor or a singer, but cut a pitiable figure. 	</item>
+        <item>	Fortunately, kind people supported him. 	</item>
+        <item>	Thanks to the support and guardianship of Jonas Collin, an influential councilor of state, Andersen at the age of 17 was sent to school. 	</item>
+        <item>	In 1828 he matriculated and at once began to write, mostly plays and poems. 	</item>
+        <item>	In the 30s he traveled abroad twice. 	</item>
+        <item>	From 1835 his fairy tales began to appear in installments, and were soon translated into almost all the European languages, and gained for him a world reputation. 	</item>
+        <item>	The full acknowledgement of his own countrymen, for which he longed so much, came much later. 	</item>
+        <item>	But it came at last. 	</item>
+        <item>	He lived to see Odense, his native town, illuminated in his honor as prophesied.	</item>
+    </string-array>
+    <string-array name="english_3">
+        <item>	The movement of people from the countryside into the cities naturally causes many problems there. 	</item>
+        <item>	The obvious one is overcrowding, which becomes a heavy burden on schools, hospitals and transport systems. 	</item>
+        <item>	The countryside is also negatively affected. 	</item>
+        <item>	As it is usually the young and healthy who leave the countryside, this creates a shortage in the workforce for farming and other rural activities. 	</item>
+        <item>	The best solution would clearly be to ensure that rural life has more to offer to the young.	</item>
+    </string-array>
+    <string-array name="english_4">
+        <item>	Our understanding of submarine volcanic eruptions has improved substantially in the past decade owing to the recent ability to remotely detect such events and to respond rabidly with brief surveys and sampling at the eruption site. 	</item>
+        <item>	But these data are necessarily limited to observations after the event. 	</item>
+        <item>	In contrast, the 1998 eruption of the Axial volcano on the Juan de Fuce ridge was monitored by on site sea-floor instruments. 	</item>
+        <item>	One of these instruments, which measured bottom pressure, was overrun and entrapped by the 1998 lava flow. 	</item>
+        <item>	The data recorded by this instrument reveal the duration, character and effusion rate of an eruption on a mid-ocean ridge.	</item>
+    </string-array>
+    <string-array name="english_5">
+        <item>	Chemistry is the study of atoms, molecules, and the interactions they undergo, called chemical reactions. 	</item>
+        <item>	Through the breaking and forming of atomic bonds, various compounds change into new compounds, either producing or consuming energy in the process. 	</item>
+        <item>	Energy may be released in the form of heat or light, as in a fire or explosion. 	</item>
+        <item>	By exploiting what scientists know about chemical reactions, chemicals with useful properties can be produced. 	</item>
+        <item>	The word derives from the slang term for the older term, "alchemist." 	</item>
+        <item>	Modern chemistry is generally thought to have begun in the 17th century, most prominently with the experiments and writings of Robert Boyle. 	</item>
+        <item>	It was Boyle that formulated Boyle\'s law, which holds that the temperature and volume of a gas are related. 	</item>
+        <item>	Today, chemistry is a fundamental part of civilization. 	</item>
+        <item>	It is used to manufacture just about everything, and chemical processing is ubiquitous and consumes a major portion of humanity\'s total energy budget. 	</item>
+        <item>	Being a chemical engineer is one of the highest-paying scientific careers.	</item>
+    </string-array>
+    <string-array name="english_6">
+        <item>	In a competitive economy, the consumer usually has the choice of several different brands of the same product. 	</item>
+        <item>	Yet underneath their labels, these products are often nearly identical. 	</item>
+        <item>	One manufacturer\'s toothpaste tends to differ very little from another manufacturer\'s. 	</item>
+        <item>	Two different brands of shampoo may vary only in scent and color. 	</item>
+        <item>	And the tobaccos in two different brands of cigarettes frequently come from the same fields. 	</item>
+        <item>	This close similarity means that a shopper has little reason to choose one brand over another. 	</item>
+        <item>	Thus, manufacturers are confronted with a problem: how to keep sales high enough to stay in business. 	</item>
+        <item>	Manufacturers solve this problem by advertising.	</item>
+    </string-array>
+    <string-array name="english_7">
+        <item>	The seventeenth century was a period of joyful activity, of experiment in politics, in religion and in the natural sciences. 	</item>
+        <item>	With the help of the telescope the skies were examined; with the aid of the microscope doctors learned more about the human body. 	</item>
+        <item>	Inventors were busy on a variety of things ranging from more reliable watches to more destructive guns and explosives. 	</item>
+        <item>	For the first time, travellers went to more and more distant places; and traders followed their example. 	</item>
+        <item>	In fact, everyone was doing something new.	</item>
+    </string-array>
+    <string-array name="english_8">
+        <item>	Certain records have come to light recently, which suggest that it was the Chinese who discovered America. 	</item>
+        <item>	And they found it nearly three quarters of a century before Columbus did. 	</item>
+        <item>	It’s a sad fact of life, and of our rather poor historical education, that Europeans tend to have a Eurocentric view of history. 	</item>
+        <item>	Unfortunately, it’s not usually realized that China had an empire and a civilization that put medieval Europe to shame. 	</item>
+        <item>	Culturally, politically and even scientifically, China’s home-grown experiments and experiences could not be matched for a long time. 	</item>
+        <item>	In the meantime, the Chinese were enthusiastic travellers and explorers. 	</item>
+        <item>	Indeed, Chinese navigators were also far more advanced than any in the West.	</item>
+    </string-array>
+    <string-array name="english_9">
+        <item>	In the history of archaeology, the sites of Pompeii and Herculaneum, lying at the foot of Mount Vesuvius in Italy, hold a very special place. 	</item>
+        <item>	Even today, when so many major sites have been systematically excavated, it is an emotional experience to visit these wonderfully preserved Roman cities. 	</item>
+        <item>	Pompeii’s fate was sealed on the momentous day in August AD 79 when Vesuvius erupted, an unfortunate event described by the Roman writer, the younger Pliny. 	</item>
+        <item>	The city was buried under several meters of volcanic ash, which resulted in deaths of many inhabitants due to lack of air. 	</item>
+        <item>	Herculaneum nearby was covered with volcanic mud. 	</item>
+        <item>	There the cities lay, known only from occasional chance discoveries, until the advent of early archaeology in the early 18th century. 	</item>
+        <item>	In 1710, the prince of Elboeuf had the good luck to discover the ancient theatre of Herculaneum. 	</item>
+        <item>	Yet, he was mainly interested in works of art for his collection and removed these without any record of their location. 	</item>
+        <item>	Such acts continued for over 100 years, and it was not until the late 19 th century that well-recorded archaeological excavations began.	</item>
+    </string-array>
+    <string-array name="english_10">
+        <item>	In ancient Greece, Athens and Sparta both wanted to be the leading power. 	</item>
+        <item>	Athens was rich and more civilized, but Sparta was somewhat backward, though brave and well-organized. 	</item>
+        <item>	The Athenians had a splendid navy, while the Spartans had the best trained soldiers. 	</item>
+        <item>	Both city-states had allies that would support them. 	</item>
+        <item>	They also had enemies who were looking for the chance to attack. 	</item>
+        <item>	Moreover, Athens and Sparta were rivals in another way. 	</item>
+        <item>	Each believed that their city had the best laws and life style. 	</item>
+        <item>	The Spartans thought that the Athenians were soft and pleasure-seeking. 	</item>
+        <item>	The Athenians looked on the Spartans as being harsh and dull. 	</item>
+        <item>	In 461 B.C., Athens attacked Sparta and its allies. 	</item>
+        <item>	The fighting continued for 14 years until the Athenians won, and Sparta was forced to admit that Athens was the strongest power in Greece.	</item>
+    </string-array>
+
+    <string-array name="turkish_1">
+        <item>	 Gezegenin tüm kısımlarında bakterinin varlığına rağmen, dünyanın toprağındaki çeşitlilikleri kötü şekilde anlaşılır.	</item>
+        <item>	 Organizmayı geliştiren şeyi daha iyi anlamak için, Duke Üniversitesi araştırmaları kuzey ve güney boyunca 98 yerden örnekleri kirin birkaç santimetre toplamak için geniş ve uzağa göç etti, ondan sonra genetik çeşitlilik için her örneği analiz etti.	</item>
+        <item>	 Meğerse yüksek çeşitliliğin en güçlü tahmincisi nötr Ph\'ti.	</item>
+        <item>	 Peruvian Amazonu\'nun asitli toprağı örneğin kurak Güneybatı Amerika\'nın nötr kirinden daha az bakteri türü barındırdı.	</item>
+        <item>	 Çok önemli ortaya çıkmadığını birçok değişken var olduğunu araştırmacı farklı habitatlar için daha fazla bir tam araştırmayı örneğin karbon bolluğu gibi çeşitliliğinin diğer uyarıcıya dönüşebildiğini ekleyen Robert Jackson söyler.	</item>
+    </string-array>
+    <string-array name="turkish_2">
+        <item>	Hans C. Andersen Danimarkalı yazar Funen\'deki Odense\'de 2 Nisan\'da doğdu.	</item>
+        <item>	Onun babası, fakir bir ayakkabıcı okumaya ve düşünmeye adanmıştı fakat Hans bir çocuk olduğu zaman öldü.	</item>
+        <item>	Onun annesi ikinci evliliğinden sonra yaşlı yaşında içmeye başlayan ve yine de fakirliğe daha derin batan, basit, eğitimsiz bir kadındı.	</item>
+        <item>	Onu içtenlikle seven Andersen, \'O hiç bir şeye demezdi\' hikayesini anlatır.	</item>
+        <item>	Onun rüya gibi günlerini alan büyükannesi çocuğu bozmak için en iyisini yaptı.	</item>
+        <item>	Fakir bir okulda çok çok eksik bir eğitimden sonra o bir terziye çırak olmaya niyetlendi, fakat bir falcı Odense\'nin onurlanmasında bir gün aydınlanacağını önceden bildi, annesi bir şarkıcı ya da bir aktör olmaya çabaladığı Kopenhang\'e gitmesine izin verdi, fakat acınacak bir şahsiyeti kesti.	</item>
+        <item>	Allahtan, kibar insan onu destekledi.	</item>
+        <item>	Devletin etkili bir meclis üyesi Jonas Collin\'in koruması ve desteği sayesinde, Anderson 17 Yaşında okula gönderildi.	</item>
+        <item>	1828\'de o üniversite sınavına girdi ve önceden çoğunlukla oyunlar ve hikayeler yazmaya başladı.	</item>
+        <item>	30\'larında o iki kez yurt dışını seyahat etti.	</item>
+        <item>	1835\'ten onun peri masalı kurmada görünmeye başladı.	</item>
+        <item>	Onun kendi vatandaşının çok uzun sürdüğü tüm bilgisi, daha sonra geldi.	</item>
+        <item>	Fakat en azından geldi.	</item>
+        <item>	O yerli kasabası Odense\'yi görmek için yaşadı, kehanet olarak onurlanmasında aydınlandı.	</item>
+    </string-array>
+    <string-array name="turkish_3">
+        <item>	Kırsal kesimden şehirlere insanların hareketi doğal olarak orada birçok soruna sebep olur.	</item>
+        <item>	En belirgin olanı okullarda, hastanelerde ve ulaşım sistemleri üzerinde ağır bir yük olan aşırı kalabalıktır.	</item>
+        <item>	Kırsal kesim de olumsuz olarak etkilenir.	</item>
+        <item>	Kırsal kesimden ayrılan genellikle genç ve sağlıklı insanlar olduğu için bu, çiftçilik ve diğer kırsal aktiviteler için iş gücünde bir kıtlık yaratır.	</item>
+        <item>	En iyi çözüm açıkça kırsal hayatın gençlere sunacağı daha çok şeye sahip olduğunu garanti etmek olurdu.	</item>
+    </string-array>
+    <string-array name="turkish_4">
+        <item>	Deniz altı volkanik patlamaları anlayışımız son on yılda böyle olayları uzaktan saptama ve kısa anketlerle ve patlama alanında örneklemelerle şiddetle tepki verebilme yeteneği sayesinde büyük ölçüde gelişmiş durumdadır.	</item>
+        <item>	Ama bu veriler olaydan sonra gözlemlerle mutlaka sınırlandırılır.	</item>
+        <item>	Aksine Juan de Fuce tepesindeki 1998 Axial volkan patlaması alandaki deniz tabanı araçlarla denetlendi.	</item>
+        <item>	Alt basıncı ölçen bu araçlardan birisi 1998 lava akışıyla istila edildi ve tuzağa düşürüldü.	</item>
+        <item>	Bu araçla kaydedilen veri okyanus ortası sırtında bir patlamanın süresini, özelliğini ve sızım oranını açığa çıkarır.	</item>
+    </string-array>
+    <string-array name="turkish_5">
+        <item>	Kimya, atomların, moleküllerin ve kimyasal reaksiyon adı verilen geçirdikleri etkileşimlerin çalışmasıdır.	</item>
+        <item>	Atom bağlarının parçalanması ve oluşmasıyla çeşitli bileşenler süreç içerisinde ya yeni bileşenlere dönüşür ya da enerji üretir ya da tüketirler.	</item>
+        <item>	Enerji bir yangın ya da patlamadaki gibi ısı ya da ışık biçiminde açığa çıkabilir.	</item>
+        <item>	Bilim adamlarının kimyasal tepkimeler hakkında bildikleri şeyden faydalanarak yararlı özellikleri olan kimyasallar üretilebilir.	</item>
+        <item>	Sözcük eski bir argo kelime olan “simyacı” dan gelmektedir.	</item>
+        <item>	Modern kimyanın genel olarak 17.yy’da özellikle Robert Boyle’nin deneyimleri ve yazılarıyla başlamış olduğu düşünülmektedir.	</item>
+        <item>	Gazın sıcaklık ve hacminin birbiriyle bağlantılı olduğunu söyleyen Boyle kanununu formüle eden Robert Boyle idi.	</item>
+        <item>	Günümüzde kimya medeniyetin temel bir parçasıdır.	</item>
+        <item>	Her şeyle ilgili imal etmek için kullanılır ve kimyasal süreç her yerde bulunur ve insanoğlunun toplam enerji bütçesinin büyük bir bölümünü tüketir.	</item>
+        <item>	Kimya mühendisi olmak bilimsel kariyerler arasında en yüksek ücretlilerden biridir.	</item>
+    </string-array>
+    <string-array name="turkish_6">
+        <item>	Bir rekabetçi ekonomide, tüketici genellikle aynı ürünün birçok farklı markalarını seçmiş durumdadır.	</item>
+        <item>	Fakat, markaların altında, bu ürünler genellikle yaklaşık benzerdir.	</item>
+        <item>	Bir üreticinin diş macunu diğer üreticiden çok az farklılaşmaya eğilimlidir.	</item>
+        <item>	2 farklı şampuan markası sadece koku ve renkte değişebilir.	</item>
+        <item>	Ve sigaranın iki farklı markadaki tütün sık sık aynı alandan gelir.	</item>
+        <item>	Bu yakın benzerlik bir alışveriş yapan kişinin bir diğeri üzerinde bir markayı seçme sonucuna vardığı anlamına gelir.	</item>
+        <item>	Bu yüzden, üreticiler bir problemi karşılaştırır: işte kalmak için yeterince yüksek satışları tutmak nasıldır.	</item>
+        <item>	Üreticiler reklamla bu problemi çözer.	</item>
+    </string-array>
+    <string-array name="turkish_7">
+        <item>	17. yüzyıl neşeli aktivitenin, politikada, dinde, doğal bilimlerde deneyimin bir dönemiydi.	</item>
+        <item>	Teleskopun yardımıyla gökyüzü incelendi, mikroskobun yardımıyla doktorlar insan vücudu hakkında daha fazla öğrendi.	</item>
+        <item>	Mucitler daha yıkıcı silahlar ve patlayıcılara daha güvenilir izlemeden gelen şeylerin bir çeşitliliği üzerine meşguldü.	</item>
+        <item>	İlk zaman için, seyahat edenler giderek daha uzak yerlere gittiler; ve tüccarlar örneklerini takip etti.	</item>
+        <item>	Aslında herkes yeni bir şey yapıyordu.	</item>
+    </string-array>
+    <string-array name="turkish_8">
+        <item>	Belli kayıtlar son zamanlarda Amerika\'yı keşfeden Çin olduğunu iddia eden açığa çıkmış durumdadır.	</item>
+        <item>	Ve onlar Columbus\'un yaptığından önce bir yüzyılın neredeyse üç çeyreğinde buldu.	</item>
+        <item>	O Avrupalılar\'ın tarihin Avrupa merkezli bir bakışına sahip olma eğilimi bizim oldukça tarihi eğitimimizin, yaşamın üzücü bir gerçeğidir.	</item>
+        <item>	Maalesef, Çin\'in bir imparatorluğa ve ortaçağ Avrupa\'yı utanca çeviren bir medeniyete sahip olduğu genel olarak farkedilmedi.	</item>
+        <item>	Kültürel olarak, politik olarak ve bilimsel olarak bile, Çin\'in evde yetişen deneyleri ve deneyimleri uzun bir zaman için eş olmaz.	</item>
+        <item>	Bu arada, Çinliler hevesli seyyahlar ve kaşiflerdi.	</item>
+        <item>	Nitekim, Çinli seyirci de Batı\'daki her şeyden daha ileri seviyedeydi.	</item>
+
+    </string-array>
+    <string-array name="turkish_9">
+        <item>	Arkeoloji tarihinde İtalya\'da Vezüv dağının ayağında yatan Pompei ve Herculaneum\'un şehirleri çok özel bir yer tutar.	</item>
+        <item>	Bugün bile birçok ana şehir sistematik olarak kazı yapıldığı zaman, bu mükemmel şekilde korunan Roma şehirlerini ziyaret etmek duygusal bir deneyimdir.	</item>
+        <item>	Pompei\'nin kaderi M.S Ağustos\'ta önemli gün üzerine mühürlendi.	</item>
+        <item>	Şehir havanın yoksunluğundan dolayı birçok yerleşenin ölümüyle sonuçlanan volkanik küllerin birkaç metre altında gömüldü.	</item>
+        <item>	Herculaneum yanında volkanik çamurla kaplandı.	</item>
+        <item>	Oradan şehirler erken 18. yüzyılda ilk arkeolojinin ortaya çıkmasına kadar, yalnızca nadiren tesadüfi keşiflerden bilinerek kurulmuştur.	</item>
+        <item>	1970\'lerde Elboef\'un prensi Herculaneum\'un eski tiyatrosunu keşfetmek için iyi şansa sahipti.	</item>
+        <item>	Fakat o başlıca yerlerinin herhangi bir kayıtsız ortadan kaldırdı ve koleksiyonu için sanatın çalışmalarıyla ilgilendi.	</item>
+        <item>	Böyle hareketler 100 yıllardır devam etti ve o iyi kayıtlı arkeolojik kazıların başladığı son 19. yüzyıla kadar değildi.	</item>
+    </string-array>
+    <string-array name="turkish_10">
+        <item>	Eski Yunanistan\'da Atina ve Sparta da önde gelen güç olmak istiyordu.	</item>
+        <item>	Atina zengin ve daha uygardı ama Sparta cesur ve iyi organize edilmiş olmasına rağmen biraz gelişmemişti.	</item>
+        <item>	Spartalılar en iyi eğitilmiş askerlere sahipken, Atinalılar muhteşeme bir donanmaya sahipti.	</item>
+        <item>	Her iki şehir devleti de onları destekleyecek müttefiklere sahipti.	</item>
+        <item>	Onlar, saldırma olanağı arayan düşmanlara da sahipti.	</item>
+        <item>	Dahası Atina ve Sparta diğer türlü rakiplerdi.	</item>
+        <item>	Her biri şehirlerinin en iyi yasalara ve yaşam tarzına sahip olduğuna inanıyordu.	</item>
+        <item>	Spartalılar, Atinalıların yumuşak ve zevk düşkünü olduğunu düşünüyordu.	</item>
+        <item>	Atinalılar, Spartalılara kaba ve sıkıcı gözüyle bakıyordu.	</item>
+        <item>	M.Ö. 461\'de Atinalılar Sparta ve müttefiklerine saldırdı.	</item>
+        <item>	Kavga Atinalılar kazanana kadar 14 yıl boyunca devam etti ve Sparta, Yunanistan\'daki en güçlü güç olduğunu kabul etmeye mecbur kaldı.	</item>
+    </string-array>
+
+    <string-array name="english_11">
+        <item>  There really is no such thing as “Art”.     </item>
+        <item>  There are only artists.     </item>
+        <item>  Once these were men who took coloured earth and roughed out the forms of animals on the walls of caves.     </item>
+        <item>  Today they are men who buy their paints, and design advertisements or paint pictures which they hope to sell.   </item>
+        <item>  There is no harm in calling all these activities art as long as we keep in mind that such a word may mean very different things in different times and places.  </item>
+    </string-array>
+
+    <string-array name="turkish_11">
+        <item>  Sanat olarak gerçekten böyle şey yok.   </item>
+        <item>  Sadece sanatçılar var.  </item>
+        <item>  Eskiden bu mağaraların duvarları üzerine hayvanların şekillerini kabataslak çizen ve yeryüzünü renklendiren insandı.    </item>
+        <item>  Bugün onlar satmayı uman resimlerini çizen ya da reklam tasarlayan ve resimlerini satan insandır.   </item>
+        <item>  Farklı zamanlar ve yerlerde çok farklı şeyler anlamına gelebilen böyle bir kelimeyi akılda tuttuğumuz sürece tüm bu sanat aktivitelerini adlandırmada zarar yoktur. </item>
+    </string-array>
+
+    <string-array name="english_12">
+        <item>  Leonardo\'s importance as a painter may be summarized by saying that he was the first master of the high Renaissance style, and of all his scientific researches that which he most fully devoted to this end was his study of light and shade.  </item>
+        <item>  Many changes came about in Italian painting around the turn of the 15th-16th century, for which he more than anyone else was responsible.   </item>
+        <item>  As regards subject matter and composition, painting became less realistic and more classical but as regards treatment it became more naturalistic and closer to life, which was partly the result of increased knowledge of anatomy and an interest in light and shade. </item>
+        <item>  In his rare excursions into classical subjects, such as the \'Leda\', Leonardo\'s approach is intensely personal.  </item>
+        <item>  Indeed, drawings by Leonardo which seem to derive from antique art are excessively rare and there is no evidence of his interest in the celebrated collections of Lorenzo the Magnificent or Pope Leo X, even though he was living in close contact with both of these.     </item>
+        <item>  This trend is not belied by the \'Last Supper\' even though it epitomizes the spirit of classical art.    </item>
+    </string-array>
+
+
+    <string-array name="turkish_12">
+        <item>  Bir ressam olarak Leonardo\'nun önemi o yüksek Rönesans stilinin ilk uzmanı olduğunu söyleyerek özetlenebilir.   </item>
+        <item>  Birçok değişim o herkesten daha fazla sorumlu olduğu 15. ve 16. yüzyılın dönüşüyle İtalyan resmi ortaya çıktı.  </item>
+        <item>  Nesnel konu ve kompozisyonla ilgili, resim daha klasik ve daha az gerçekçi oldu, fakat davranışla ilgili o ışık ve gölge ile ilgili ve anatominin artan bilgisinin kısmen sonucu olan yaşam için daha yakın daha natüralist oldu.   </item>
+        <item>  Onun klasik nesneye nadir yolculuğunda, örneğin \'Leda\' gibi, Leonardo\'nun yaklaşımı yoğun bir şekilde kişiseldir.   </item>
+        <item>  Aslında Antik sanattan türemiş gibi görünen Leonardo tarafından çizimler aşırı derecede nadirdir ve o her ne kadar o bunun her ikisiyle yakın ilişkide yaşıyor olsa da Pope Leo X ya da Büyük Lorenzo\'nun koleksiyonunu kutlamada ilgisinin kanıtı yoktur.  </item>
+        <item>  Bu moda klasik sanatın ruhunun örneği olmasına rağmen \'Son akşam yemeği\' ile ters düşmez.   </item>
+    </string-array>
+
+    <string-array name="english_13">
+        <item>  If you wish to glimpse the ancient trophies of Pedra Furada, in a difficult, mountainous area of northeastern Brazil, you must be prepared to face intense dry heat, treacherous rocky ground, sudden flooding, boulders falling from cliffs, aggressive snakes and swarms of mosquitoes.   </item>
+        <item>  It\'s worth it, though, for the archeological treasures to be found there are exceptionally ancient.     </item>
+        <item>  Rock paintings - vivid depictions of prehistoric ways of life, including dancing, hunting, war and sex rituals - have been dated at more than 12, 000 years old, while curious pebble structures, primeval bonfires and early stone tools are up to 50, 000 years old.  </item>
+        <item>  The discovery of the remains had a profound effect on our knowledge of American prehistory, for they suggested that the first people in the New World arrived not via a bridge of ice from Siberia but by sea from Africa or possibly even Australia.   </item>
+    </string-array>
+
+
+    <string-array name="turkish_13">
+        <item>  Eğer Kuzeydoğu Brezilya\'nın dağlık alanı Pedra Furuda\'nın eski ödüllerine bakmak istiyorsan, sen yoğun kuru sıcak, tehlikeli kayalık yer, ani sel, uçurumlardan düşen kaya kütlesi, agresif yılanlar ve sivri sineklerin kümesiyle karşı karşıya kalmaya hazırlıklı olmalıdır.  </item>
+        <item>  Buna değer, fakat, arkeolojik hazineleri bulmak için olağanüstü eskiden kalmadır.   </item>
+        <item>  Kaya resimleri, yaşamın tarih öncesi yollarının canlı tanımları, dans, avlanma, savaş ve seks ritüelleri 12,000 yıldan daha fazla tarihlenmiş durumdadır, oysa tuhaf çakıl yapıları, ilkel şenlik ateşi ve ilk taş araçlar 50.000 yıllarına kadardır.   </item>
+        <item>  Kalıntıların keşfi Amerikan tarih öncesi bilgimiz üzerine derin bir etkiye sahipti, çünkü yenidünyadaki ilk insanlar Sibiryadan buzun bir köprüsü üzerinden ulaşmadığını, fakat Avusturalya dahi ya da muhtemelen Afrika\'dan denizle ulaştığını ileri sürdü.    </item>
+    </string-array>
+
+    <string-array name="english_14">
+        <item>  A low calcium intake during the growing years limits the bones’ ability to achieve an optimal mass and density.     </item>
+        <item>  Most people achieve a peak bone mass by about age 30, and dense bones protect against age-related bone loss and fracture.   </item>
+        <item>  Starting before the age of 40, all adults lose bone as they grow older.     </item>
+        <item>  When bone loss reaches the point at which bones fracture under common, everyday stresses, the condition is known as osteoporosis.   </item>
+        <item>  Today, worldwide, this is one of the most prevalent diseases of aging.  </item>
+        <item>  For instance, in the US, it afflicts more than 25 million people, mostly older women.   </item>
+        <item>  Unlike many diseases that make themselves known through symptoms such as pain, shortness of breath, skin lesions, tiredness, and the like, osteoporosis is silent.  </item>
+        <item>  The body sends no signals saying bone loss is occurring.    </item>
+        <item>  Blood samples offer no clues because blood calcium remains normal regardless of bone content, and measures of bone density are rarely taken.    </item>
+        <item>  However, there are various strategies to protect against bone loss, and eating calcium-rich foods is only one of them.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_14">
+        <item>  Büyüme yılları sırasında düşük kalsiyum alımı kemiklerin en iyi kitle ve yoğunluğa ulaşma yeteneğini sınırlandırır. </item>
+        <item>  Çoğu insan yaklaşık 30 yaşına kadar en üst kemik kitlesine ulaşır ve yoğun kemikler yaşa bağlı kemik kaybı ve kırığına karşı korur. </item>
+        <item>  Kırk yaşından önce başlayarak tüm yetişkinler yaşlandıkça kemik kaybederler.    </item>
+        <item>  Kemik kaybı kemik kırığının yaygın, günlük stresler altında olduğu noktaya ulaştığında durum osteoporoz olarak bilinir. </item>
+        <item>  Günümüzde dünya çapında bu yaşlanmanın en yaygın hastalıklarından biridir.  </item>
+        <item>  Örneğin Amerika\'da çoğunlukla yaşlı kadın olan 25 milyon insandan fazlasına sıkıntı verir.  </item>
+        <item>  Acı, nefes darlığı, cilt yaraları, yorgunluk ve bunun gibi belirtiler yoluyla kendilerini belli eden birçok hastalığın aksine, osteoporoz sessizdir.    </item>
+        <item>  Vücut kemik kaybının meydana geldiğini belirten hiç sinyal göndermez.   </item>
+        <item>  Kan örnekleri hiç ipucu sunmaz çünkü kan kalsiyumu kemik içeriğine bakılmaksızın normal kalır ve kemik yoğunluğu ölçümleri nadiren alınır.  </item>
+        <item>  Ancak kemik kaybına karşı korumak için çeşitli stratejiler vardır ve kalsiyum bakımından zengin yiyecekler yemek onlardan sadece birisidir. </item>
+    </string-array>
+
+    <string-array name="english_15">
+        <item>  Moisture is removed from humid air by mountains, which force the air to rise.   </item>
+        <item>  As it gains altitude, the air cools, clouds form, and precipitation occurs, primarily on the windward slopes of the mountains.  </item>
+        <item>  As the air mass moves down on the other side of the mountain, it is warmed, thereby lessening the chance of precipitation of any remaining moisture.    </item>
+        <item>  This situation exists on the west coast of North America, where precipitation falls on the western slopes of mountains that are close to the coast.     </item>
+        <item>  The dry lands on the sides of the mountains away from the prevailing wind are called \'rain shadows.\'    </item>
+        <!--<item>  Generally, differences in elevation, in the steepness and direction of slopes, and in exposure to sunlight and prevailing winds may produce local variations in climate known as \'microclimates, \' which can be quite different from their overall surroundings.    </item>-->
+        <item>  For an organism, the microclimate of its habitat is of primary importance, because that is the climate an organism actually experiences and knows how to cope with. </item>
+    </string-array>
+
+
+    <string-array name="turkish_15">
+        <item>  Nem yükselmek için havayı zorlayan dağ tarafından nemli havadan kaynaklanır.    </item>
+        <item>  O yükseklik kazandıkça, hava bulutlardan soğur ve başlıca dağların rüzgâra doğru yamaçları üzerinde yağış meydana gelir.    </item>
+        <item>  Hava kütlesi dağın diğer tarafları üzerinden aşağı taşır, o böylece herhangi artan nemin şansı azalarak ısınır. </item>
+        <item>  Bu durum Kuzey Amerika\'nın batı kesimleri üzerinde var olur ki orada yağışlara yakın olan dağların batı yamaçları üzerine düşer.    </item>
+        <item>  Yaygın olan rüzgârdan uzakta olan dağların yanları üzerindeki kuru araziler yağmur gölgesi olarak adlandırılır. </item>
+        <item>  Bir organizma için, yaşam alanının mikro iklimi ana öneme sahiptir, bir organizma iklimi aslında nasıl üstesinden geleceğini bildiği ve deneyimlediği için ana öneme sahiptir.  </item>
+    </string-array>
+
+    <string-array name="english_16">
+        <item>  When air pollution, including acid rain, is combined with other environmental stresses, such as low winter temperatures, prolonged droughts, insects, and bacterial, fungal, and viral diseases, it can cause plants to decline and die.    </item>
+        <item>  More than half of the red spruce trees in the mountains of the northern United States have died since the mid-1970s.    </item>
+        <item>  Other tree species, such as sugar maples, for example, are also dying.  </item>
+        <item>  Many still-living trees are exhibiting symptoms of forest decline, characterized by a gradual deterioration and often eventual death.   </item>
+        <item>  The general symptoms of forest decline are reduced vigor and growth, but some plants exhibit specific symptoms, such as yellowing of needles in conifers.   </item>
+        <item>  Air pollutants may or may not be the primary stress that results in forest decline, but the presence of air pollution lowers plant resistance to other stress factors.  </item>
+        <item>  When one or more stresses weaken a tree, then an additional stress may be enough to cause death.    </item>
+    </string-array>
+
+
+    <string-array name="turkish_16">
+        <item>  Asit yağmuru dahil hava kirliliği düşük kış sıcaklıkları, uzun süreli kuraklıklar, böcekler ve bakteri, mantar ve virüs hastalıkları gibi diğer çevresel gerilimlerle birleştirildiğinde, bitkilerin azalmasına ve ölmesine sebep olabilir. </item>
+        <item>  Kuzey ABD \'nin dağlarında kırmızı ladin ağaçlarının yarısından daha fazlası 1970\'lerin ortasından beri ölmüş durumda.   </item>
+        <item>  Örneğin akçaağaçlar gibi diğer ağaç türleri de ölüyor.  </item>
+        <item>  Birçok hala yaşayan ağaç aşamalı bozulma ve çoğunlukla nihai ölümle nitelenen orman azalışının belirtileri gösteriyor.  </item>
+        <item>  Orman azalışının genel belirtileri azalmış dinçlik ve büyümedir ama bazı bitkiler kozalaklı ağaçlarda iğnelerin sararması gibi belirli belirtiler gösterirler.  </item>
+        <item>  Hava kirleticileri orman azalışıyla sonuçlanan ana gerilim olabilir yâda olmayabilir ama hava kirliliğinin varlığı diğer stres faktörlerine bitki direncini azaltır.    </item>
+        <item>  Bir ya da daha fazla gerilim bir ağacı zayıflattığında, ek bir gerilim ölüme sebep olmasına yeterli olabilir.   </item>
+    </string-array>
+
+    <string-array name="english_17">
+        <item>  The Renaissance and the Enlightenment name two distinctly different periods of European history.    </item>
+        <item>  They both heralded major changes in culture, art, philosophy, science, and mathematics.     </item>
+        <item>  The Renaissance is associated with advances in literature, architecture, humanism, and a world economy, while the Enlightenment is associated with the scientific method, industrialization, rationality, astronomy, and calculus.  </item>
+        <item>  The Renaissance occurred during the 14th-16th centuries, following the Middle Ages.     </item>
+        <item>  In French, the name translates as "rebirth," meaning that this was a Golden Age of artistic, cultural, and intellectual thought and production.     </item>
+        <item>  During this era, great contributions were made to music, astronomy, painting, architecture, poetry, drama, and philosophy.  </item>
+        <item>  Some famous people of this period include Galileo, Leonardo da Vinci, Michelangelo, and Niccolo Machiavelli.    </item>
+        <item>  Financial, political, and technological innovations contributed to this explosion in civilization.  </item>
+        <item>  The Black Plague killed many people but ended up redistributing wealth, remapping cities, and establishing a literate middle class.     </item>
+        <item>  The Gutenberg press allowed people to translate and widely distribute written material.     </item>
+        <item>  Advents in ship building and ocean navigation enabled closer economic ties between all of Europe and the East, not to mention the New World.    </item>
+        <item>  Knowledge was accessible when Greek and Roman texts were translated from Latin into Italian, French, and English, so scholars could expand upon Ancient wisdom. </item>
+    </string-array>
+
+
+    <string-array name="turkish_17">
+        <item>  Rönesans ve Aydınlanma Avrupa tarihinin açık bir şekilde iki farklı dönemine denilmektedir. </item>
+        <item>  Bunların her ikisi de kültür, sanat, felsefe, bilim ve matematik bakımından önemli değişiklikler yaşamıştır.    </item>
+        <item>  Aydınlanma bilimsel metot, sanayileşme, akılcılık, astronomi ve kalkülüs ile bağlantılı iken Rönesans edebiyat, mimari, insanlık ve dünya ekonomisiyle bağlantılıdır.   </item>
+        <item>  Rönesans, Orta Çağı takip eden 14. ve 16.yy’larda ortaya çıkmıştır. </item>
+        <item>  Sanatsal, kültürel ve entelektüel düşüncenin ve üretimin Altın Çağı anlamına gelen bu isim Fransızcada “yeniden doğuş” olarak çevrilmektedir.   </item>
+        <item>  Bu çağ boyunca, müziğe, astronomiye, resme, mimariye, şiire, tiyatroya ve felsefeye önemli katkılar sağlanmıştır.   </item>
+        <item>  Bu dönemin bazı ünlü kişileri Galileo, Leonardo da Vinci, Michelangelo ve Niccolo Machiavelli’yi içermektedir.  </item>
+        <item>  Finansal, politik ve teknolojik yenilikler medeniyetteki bu patlamaya katkı sağlamıştır.    </item>
+        <item>  Kara veba çok fazla insanı öldürmüştür ancak servetin yeniden dağıtılması, şehirlerin yeniden haritasının çıkarılması ve aydın bir orta sınıf kurulmasıyla sonuçlanmıştır.  </item>
+        <item>  Gutenberg baskı makinesi insanların yazılı materyalleri çevirmelerini ve geniş ölçüde dağıtmalarını sağlamıştır.    </item>
+        <item>  Gemi inşaatındaki yenilikler ve okyanus navigasyonu tüm Avrupa ile Yeni Dünya’nın yanı sıra Doğu arasında ekonomik bağların daha yakın olmasını sağlamıştır.    </item>
+        <item>  Yunan ve Romen metinler Latinceden İtalyanca, Fransızca ve İngilizceye çevrilince bilgi ulaşılabilir hale geldi, bu yüzden bilginler Antik Çağ bilgeliği üzerine ayrıntıları ile açıklayabildiler.  </item>
+    </string-array>
+
+    <string-array name="english_18">
+        <item>  Erosion is a continual process, and it can be caused naturally or through artificial means.     </item>
+        <item>  While many people associate erosion with negative things like landslides and poor soil conditions, it is an important part of the geologic processes which make the Earth what it is.   </item>
+        <item>  As soil and rock are slowly worn down, they cycle through the Earth\'s crust and the general environment, causing a constantly shifting and varied surface.  </item>
+        <item>  One of the most powerful causes of erosion is water.    </item>
+        <item>  Water is sometimes called the universal solvent, because it is so effective at dissolving and changing things.  </item>
+        <item>  Rain and runoff contribute to erosion, as do glaciers, snow, and ice.   </item>
+        <item>  Ice can be particularly insidious, because it will literally rip rock and soil apart as it expands and contracts.   </item>
+        <item>  Many seashores distribute spectacular examples of water erosion, in the form of huge terraces of rocks slowly worn away by the ocean.   </item>
+        <item>  Tectonic movement can also contribute to erosion, as can the wind.  </item>
+        <item>  Wind transports materials from one place to another, and in extremely windy locations it can contribute a powerful scouring force to the process of erosion.    </item>
+        <item>  Materials also naturally tend to slide down a slope, in a process called mass wasting.  </item>
+        <item>  This downward pull is what causes mountains to slowly melt into hills and plains, and it is constantly happening, although not always in the spectacular form of a landslide.   </item>
+    </string-array>
+
+
+    <string-array name="turkish_18">
+        <item>  Erozyon devamlı bir süreçtir ve doğal ya da yapay yollardan kaynaklanabilir.    </item>
+        <item>  Çoğu insan erozyonu toprak kayması ve kötü toprak koşulları gibi olumsuz şeylerle ilişkilendirirken, dünyayı dünya yapan jeolojik süreçlerin önemli bir parçasıdır. </item>
+        <item>  Toprak ve kaya yavaş yavaş aşındıkça, sürekli hareketli ve değişken yüzeye sebep olarak yer kabuğuna ve genel çevreye dönüşür.  </item>
+        <item>  Erozyonun en güçlü sebeplerinden biri sudur.    </item>
+        <item>  Su bazen kapsamlı bir çözücü olarak adlandırılır çünkü bir şeyleri çözmede ve değiştirmede çok etkilidir.   </item>
+        <item>  Yağmur ve akarsu buzulların, karın ve buzun yaptığı gibi erozyona sebep olur.   </item>
+        <item>  Buz özellikle sinsi olabilir çünkü yayıldıkça ve büzüldükçe kelimenin tam manasıyla kaya ve toprağı parçalar.   </item>
+        <item>  Çoğu deniz kenarı, okyanus tarafından yavaş yavaş aşındırılan geniş teraslı kayalar biçiminde şaşırtıcı su erozyonu örneklerine bölünmektedir.  </item>
+        <item>  Tektonik hareket ayrıca rüzgârın da yapabildiği gibi erozyona sebep olabilir.   </item>
+        <item>  Rüzgâr bir yerdeki malzemeleri diğerine taşır ve aşırı rüzgârlı yerlerde erozyon sürecinin güçlü oyulmasına sebep olabilir. </item>
+        <item>  Malzemeler ayrıca toprak kayması adı verilen aşamada doğal olarak yokuş aşağı doğru kayma eğilimi gösterirler.  </item>
+        <item>  Bu aşağı doğru çekim dağların yavaş yavaş eriyerek tepelere ve ovalara dönüşmesine sebep olan şeydir ve her ne kadar daima şaşırtıcı bir toprak kayması biçiminde olmasa da sürekli olur.   </item>
+    </string-array>
+
+    <string-array name="english_19">
+        <item>  The urge to dance is one of the most powerful of human instincts.   </item>
+        <item>  Nearly all dances from antiquity to the 19th century had one important common characteristic.   </item>
+        <item>  They alternated between collective movements and solo twins, in which every dancer or couple in succession would become the centre of attention and then merge back into the crowd.     </item>
+        <item>  Thus dancing expressed both the communal and the individualistic impulse of humanity, holding the two in delicate balance to the benefit of healthy society.    </item>
+    </string-array>
+
+
+    <string-array name="turkish_19">
+        <item>  Dans için istek insan içgüdüsünün en güçlülerinden biridir. </item>
+        <item>  Neredeyse eski çağlardan 19. yüzyıla tüm danslar önemli bir yaygın özelliğe sahipti.    </item>
+        <item>  Onlar toplu hareketler ve tek ikizler arasında değişti, ki orada her dansçı ve çiftler yerine geçmede dikkatin merkezi olacak ve sonra kalabalığa geri dönüp birleşir.  </item>
+        <item>  Bu yüzden dans, sağlıklı toplumun faydalarını hassas dengede tutarak hem toplum hemde insanlığın bireysel baskısını ifade etti. </item>
+    </string-array>
+
+    <string-array name="english_20">
+        <item>  Some 130 million years ago, a spike-backed dinosaur walked heavily through the wilderness of what came to be Australia, and left its footprints as a gift for the future.   </item>
+        <item>  They were the world’s best impressions of a dinosaur’s two-ton foot falls. When they were found seven years ago in a remote valley in northern Australia, they provided scientists with the first clear evidence that dinosaurs had lived in Australia.     </item>
+        <item>  This discovery provided further evidence for the theory that Australia was once joined to a vast super-continent that included what is now South America, Africa, India and Antarctica. </item>
+    </string-array>
+
+    <string-array name="turkish_20">
+        <item>  Yaklaşık 130 milyon yıl önce, sivri uçlu sırtlı bir dinozorun yoğun bir şekilde Avusturalya\'ya gelen şeyin vahşi orman içinden yürüdü, ve onun ayak izleri gelecek için bir hediye olarak kaldı.    </item>
+        <!--<item>  Onlar bir dinozorun iki ton ayak düşüşleri dünyanın en iyi izlenimiydi. </item>-->
+        <item>  Onlar Kuzey Avusturalya\'da uzak bir vadide yedi yıl önce bulunduğu zaman, onlar dinazorların Avusturalya\'da yaşadıklarının ilk açık kanıtıyla bilimadamları sağladı.    </item>
+        <item>  Bu keşif Avusturalya\'nın Güney Amerika, Hindistan ve Antartika olduğunu içeren geniş bir üst kıtaya daha önce katıldı.  </item>
+    </string-array>
+
+    <string-array name="english_21">
+        <item>  Cinema today is all too often just about plot or special effects.   </item>
+        <item>  So really great films, successfully weaving together sound, image and time to tell a really cinematic story, are always special.    </item>
+        <item>  On show in New York earlier this month was a remarkable example.    </item>
+        <item>  Alexander Sokurov\'s Russian Ark explores the 300 -year- long history of the Hermitage museum in St.Petersburg.  </item>
+        <item>  It takes you an uncut 90 - minute walk through 35 of its historic rooms and halls.  </item>
+        <item>  This has never been done -before and the result demonstrates impressively how much film can achieve.    </item>
+    </string-array>
+
+
+    <string-array name="turkish_21">
+        <item>  Sinema bugün özel efektler ya da genellikle sadece konu hakkındadır.    </item>
+        <item>  Dolayısıyla gerçekten büyük filmler, başarılı bir şekilde gerçekten sinematik bir hikayeyi anlatmak için ses, şekil ve zamanla birlikte dokuyarak her zaman özeldir.    </item>
+        <item>  Erken bu ay Newyork\'taki gösteriler dikkate değer bir örnekti.  </item>
+        <item>  Alexander Sokurov\'s Rus St Petersburg\'ta Hermitage\'ın 300 yıllık tarihini araştırır.    </item>
+        <item>  O tarihi odaları ve salonlarının kesilmemiş 90 dakikalık bir yürüyüş alır.  </item>
+        <item>  Bu daha önce hiç yapılmamıştı ve sonuç daha fazla filmin nasıl başarılabileceğini etkileyici bir şekilde gösterir.  </item>
+    </string-array>
+
+    <string-array name="english_22">
+        <item>  Fossils are the remains of organisms which have endured for fantastic periods of time.  </item>
+        <item>  Fossils can be bones or teeth or even plant or animal imprints preserved in rock since prehistoric times.   </item>
+        <item>  The appearance of fossils in rock has been a source of wonder and fascination to man for centuries.     </item>
+        <item>  The fossil of an ancient sea animal was even found among the possessions of a prehistoric man.  </item>
+        <item>  Many people have tried to explain fossils.  </item>
+        <item>  Aristotle believed they were the remains of living creatures, but thought the creatures grew in the rocks.  </item>
+        <item>  Some people believed that fossils were placed in rocks by evil spirits.     </item>
+        <item>  Other explanations were remarkably modern.  </item>
+        <item>  For example, Herodotus, an ancient Greek historian, observed fossil seashells in the Libyan desert in 450 B.C. and guessed that the Mediterranean Sea had once reached much farther south than it does today.   </item>
+    </string-array>
+
+
+    <string-array name="turkish_22">
+        <item>  Fosiller zamanın etkileyici dönemine dayanan organizmaların kalıntısıdır.   </item>
+        <item>  Fosiller tarih öncesinden beri kayalarda korunan bitki ya da hayvan baskıları dahi ya da kemikler ve dişler olabilir.   </item>
+        <item>  Kayalardaki fosillerin görünümü yüzyıllardır insan için merak ve büyülemenin bir kaynağı olmuş durumdadır.  </item>
+        <item>  Eski bir denizin fosilleri tarih öncesinin mal mülkü arasında bile bulundu. </item>
+        <item>  Birçok insan fosilleri açıklamaya çalışmış durumdadır.  </item>
+        <item>  Aristo canlı varlıkların kaldığına inandı, fakat varlıkların kayalarda büyüdüğünü düşündü.  </item>
+        <item>  Bazı insanlar fosillerin şeytani ruhlar tarafından kayalarda yerleştiğine inandı.   </item>
+        <item>  Diğer açıklamalar önemli derecede moderndi. </item>
+        <item>  Örneğin Eski bir Yunan tarihçi Heredot M.Ö 450\'de Libya çölünde deniz kabuğu fosilleri gözlemledi ve Akdeniz\'in bugünden daha fazla güneye ulaştığını tahmin etti.  </item>
+    </string-array>
+
+    <string-array name="english_23">
+        <item>  Of all Jane Austen’s novels, Pride and Prejudice is probably the best-known and the most-loved.     </item>
+        <item>  This may be partly because it has been filmed several times, but more important is the fact that the characters in it are so real and alive.    </item>
+        <item>  They are also extremely attractive, in spite of their faults.   </item>
+        <item>  Perhaps they are attractive because of their faults, for their faults make them amusing to the reader.  </item>
+        <item>  It would not be at all pleasant to have a mother as lacking insense as Mrs Bennet is, or an aunt as confident otherself and as insensitive to the feelings of others as Lady Catherine is.  </item>
+        <item>  But, as they are at a safe distance from us, these and other “terrible” characters give the novel much colour and variety.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_23">
+        <item>  Jane Austen\'in romanlarının hepsinin arasında Pride and Prejudice muhtemelen en bilineni ve en sevilenidir. </item>
+        <item>  Bu kısmen bu yüzden birkaç zamanlar film yapılmıştır, fakat en önemli gerçek şudur ki ondaki karakterler öyle gerçek ve canlıdır.   </item>
+        <item>  Onlar aynı zamanda hatalarına rağmen oldukça çekicidir. </item>
+        <item>  Belki onlar hataları yüzünden çekicidir, çünkü hataları okuyucuya eğlenceli gelir.  </item>
+        <item>  Mrs Bennet kadar duygudan yoksun bir anneye sahip olmak hiç mi hiç hoş olmayacaktı, ya da kendinden emin bir teyze ve Lady Catherine kadar diğerlerinin hislerine duyarsız. </item>
+        <item>  Fakat onlar bizden güvenli bir uzaklıkta oldukları için, bu diğer korkunç karakterler romana daha renkli ve çeşitlilik verir.   </item>
+    </string-array>
+
+    <string-array name="english_24">
+        <item>  The First World War could be called the War of the Ottoman Succession.  </item>
+        <item>  It was, in part, a struggle between Austria and Russia for domination in the areas in the Balkans once ruled by the Ottoman Empire.     </item>
+        <item>  Its first shots were fired in the former Ottoman city of Sarajevo.  </item>
+        <item>  Throughout the summer and autumn of 1914, as the European powers were locked in battle, the Ottoman government hesitated.   </item>
+        <item>  Finally, at the end of October, against the wishes of his colleagues, Enver Pasha decided to attack Russian targets with the new warships in the Black Sea.     </item>
+        <item>  His decision led to war across Europe, the collapse of the Ottoman Empire and the end of stability in the Middle East.  </item>
+        <item>  Initially, the alliance between the Ottoman Empire and the Central Powers worked well.  </item>
+        <item>  In the first half of the 20th century, Germany was not the source of horror that it later became.   </item>
+        <item>  Britain, France and Russia were the enemies to be feared and resented.  </item>
+        <item>  By comparison, Germany appeared friendly.   </item>
+        <item>  The Ottoman government calculated that its alliance with the Central Powers would restore the glory of the empire, help it recover some of the islands lost to Greece in 1913, and perhaps lead to an extension of territory in Turkish-speaking central Asia.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_24">
+        <item>  Birinci Dünya Savaşı Osmanlı intikalinin savaşıydı. </item>
+        <item>  Osmanlı imparatorluğu tarafından yönetildikten sonra Balkanlar\'daki alanlarda hakimiyet için Avusturya ve Rusya arasında bir mücadeleydi.   </item>
+        <item>  İlk atış Sarajevo\'nun eski Osmanlı şehrinde ateş edildi.    </item>
+        <item>  1914\'ün yaz ve sonbaharı boyunca, Avrupa güçleri savaşta hapsedildiği için, Osmanlı hükümeti teredüt etti.  </item>
+        <item>  Sonunda ekimin sonunda meslektaşların isteğine karşı, Enver Paşa Karadeniz\'de yeni savaş gemisiyle Rus hedeflerine saldırmaya karar verdi.  </item>
+        <item>  Onun kararı Avrupa\'ya karşı, Osmanlı İmparotorluğu\'nun çöküşü ve Ortadoğu\'da istikrarın sonuna savaşa yol açtı. </item>
+        <item>  Başlangıçta Osmanlı İmparotorluğu ve merkez güçler arasındaki ittifak daha iyi işledi.  </item>
+        <item>  20 yüzyılın ilk yarısında Almanya sonra olan korkunun kaynağı değildi.  </item>
+        <item>  İngilitere, Fransa ve Rusya korkulan ve içerlenilen düşmanlardı.    </item>
+        <item>  Aksine, Almanya arkadaşça gözüktü.  </item>
+        <item>  Osmanlı Hükümeti merkez güçleriyle ittifakını imparatorluğun şanını onaracağını 1913\'te Yunanistan\'da kaybedilen adaların bazılarını kurtarmaya yardım edeceğini hesapladı ve belki merkez Asya\'da Türkçe konuşulan bölgenin bir genişlemesine sebep oldu.  </item>
+    </string-array>
+
+    <string-array name="english_25">
+        <item>  By the beginning of the eighteenth century, the population of Tokyo had grown about 1 million, making it the largest city in Japan and one of the most populous in the world.   </item>
+        <item>  An especially lively section of the city was along the Sumida River, where pleasure boats and parties were common and whose banks were lined with fashionable tea-houses.   </item>
+        <item>  Tea was central to the Japanese not only in their homes, but in the public life as well.    </item>
+        <item>  In the bustling urban centres of 18th–century Japan, tea-houses served a role similar to the one played by coffee–houses in Europe which were centres of discussion and entertainment.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_25">
+        <item>  8. yüzyılın başlangıcına kadar, Tokyo\'nun nüfusu dünyada en fazla nüfusludan biriydi ve Japonya\'daki en büyük şehir yapan yaklaşık 1 milyon artmış durumdaydı.  </item>
+        <item>  Özellikle şehrin canlı bir bölümü Sumida nehri boyuncaydı, gezi botları ve partiler yaygındı ve bankaları modaya uygun çay evleriyle uyumluydu. </item>
+        <item>  Çay sadece evlerinde değil aynı zamanda da halk yaşamında Japonlar\'a merkezdi.  </item>
+        <item>  18. yüzyıl Japonya\'nın hareketli şehir merkezlerinde, çay evleri tartışma ve eğlencenin merkezi olan Avrupa\'daki kahve evleri tarafından benzer bir rol oynamaya hizmet etti.   </item>
+    </string-array>
+
+    <string-array name="english_26">
+        <item>  A population is a group of individual organisms of the same kind that are limited to some particular space.     </item>
+        <item>  The most familiar example is the human population, but there are also populations of animals and plants everywhere on Earth.    </item>
+        <item>  In fact, scientists regard a population as a biological unit that has both structure and function.  </item>
+        <item>  The parts of a population are its individual members.   </item>
+        <item>  The functions of a population are similar to those of other biological units: growth, development, and self-maintenance in a changing environment.  </item>
+        <item>  Individuals enter a population by birth and by moving in, that is, by immigration.  </item>
+        <item>  Individuals leave a population by death and by moving out, that is, by emigration.  </item>
+        <item>  If the environment of a population remains the same, loss and replacement of members are in balance.    </item>
+        <item>  The population will be able to survive in that particular environment.  </item>
+        <item>  If the environment changes, however, loss or addition of members increases or decreases the size of the population. </item>
+    </string-array>
+
+
+    <string-array name="turkish_26">
+        <item>  Nüfus, bazı belirli alanla sınırlı benzer türde bireysel organizmalar grubudur. </item>
+        <item>  En bilindik örnek insan nüfusudur ama Dünya\'da her yerde hayvan ve bitki nüfusları da vardır.   </item>
+        <item>  Aslında bilim adamları nüfusu hem yapıya hem işleve sahip biyolojik bir birim olarak görürler.  </item>
+        <item>  Nüfusun kısımları kişisel üyeleridir.   </item>
+        <item>  Bir nüfusun işlevleri diğer biyolojik birimlerinkine benzer: büyüme, gelişme ve değişen bir ortamda kendime bakım.  </item>
+        <item>  Bireyler doğum ve taşınmayla yani göçle nüfusa girerler.    </item>
+        <item>  Bireyler ölüm ve taşınmayla yani göçle nüfustan ayrılırlar. </item>
+        <item>  Eğer bir nüfusun çevresi aynı kalırsa, üyelerin kaybı ve yerine geçmesi dengededir. </item>
+        <item>  Nüfus o belirli çevrede hayatta kalabilir.  </item>
+        <item>  Eğer ancak çevre değişirse, bireylerin kaybı yada ilavesi nüfusun büyüklüğünü artırır yada azaltır. </item>
+    </string-array>
+
+    <string-array name="english_27">
+        <item>  The huge ice sheet covering Greenland, which is the world’s largest island, provides a habitat for many arctic species and holds nearly 8 per cent of the world’s freshwater.   </item>
+        <item>  It is, on average, 5, 000 feet thick and is constantly being replaced as snow falls each winter.    </item>
+        <item>  Over the course of centuries, the snow compacts into ice, which slides towards the ocean.   </item>
+        <item>  In recent years, higher atmospheric concentrations of heat-trapping gases have accelerated that process.    </item>
+        <item>  As temperatures rise, the top layers melt, giving way to darker, heat-absorbing ice and liquid water.   </item>
+        <item>  The melt water seeps down to the rock below, lubricating the ice mass and speeding its slide into the sea.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_27">
+        <item>  Dünyanın en büyük adası olan Grönland\'ı kaplayan büyük buz tabakası birçok kutup türleri için bir yaşam ortamı sağlar ve dünyanın tatlı suyunun neredeyse yüzde 8\'ine sahiptir. </item>
+        <item>  Ortalama 5,000 fit kalınlığındadır ve her kış kar yağdıkça sürekli olarak değiştiriliyor.   </item>
+        <item>  Yüzyıllar boyunca kar, okyanusa doğru kayan buza dönüşür.   </item>
+        <item>  Son yıllarda ısı kapan gazlarının daha yüksek atmosferik yoğunluğu o süreci artırmış durumda.   </item>
+        <item>  Sıcaklık arttıkça üst katmanlar daha karanlık, ısı emen buz ve sıvı sulara dönüşerek erir.  </item>
+        <item>  Erimiş su, buz kütlesini kayganlaştırarak ve kaymasını denize doğru hızlandırarak kayanın altına doğru sızar.   </item>
+    </string-array>
+
+    <string-array name="english_28">
+        <item>  There are about forty distinct kinds of wild cats known to inhabit the earth today.     </item>
+        <item>  They range in size from the mighty Siberian tiger to several little spotted species about the size of the average domestic cat.     </item>
+        <item>  The cats are the most efficient land predators left on earth.   </item>
+        <item>  They combine power, speed, patience, camouflage, and considerable individual skill.     </item>
+        <item>  All swim well, most climb with great agility, and at least for short distances, most can move with amazing swiftness.   </item>
+        <item>  The African lion can reach a speed of almost forty miles per hour when it charges.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_28">
+        <item>  Bugün dünyada yaşadığı bilinen yaklaşık kırk farklı vahşi hayvan türü vardır.   </item>
+        <item>  Güçlü Sibirya kaplanından, ortalama bir ev kedisi büyüklüğündeki birkaç küçük benekli türlere kadar büyüklük bakımından çeşitlilik gösterirler. </item>
+        <item>  Kediler dünyada kalan en etkili arazi yırtıcı hayvanlarıdır.    </item>
+        <item>  Onlar güç, hız, sabır, kamuflaj ve oldukça bireysel becerileri birleştirirler.  </item>
+        <item>  Hep iyi yüzer, çoğu müthiş çeviklikle tırmanır ve en azından kısa mesafelerde çoğu şaşırtıcı hızlılıkla hareket edebilirler.    </item>
+        <item>  Afrika aslanı saldırdıklarında saatte yaklaşık kırk mil hıza ulaşabilirler. </item>
+    </string-array>
+
+    <string-array name="english_29">
+        <item>  If the term employment is used in its wider sense as meaning work which is of economic value not only to the family but to the community, women have at all times been thus employed.   </item>
+        <item>  In primitive societies and in agricultural communities women shared in the productive work on the land, in the workshops and the home; they took part in trade and they cared for the old, the sick and the infirm at a time when there were no health and welfare services in the modern sense.    </item>
+        <item>  Indeed, in any society in which the productivity of labour is low, women\'s active participation in the daily work is indispensable.     </item>
+        <item>  To this day, women work in the fields in all agricultural communities; they spin and weave, do building work and various other kinds of hard physical labour in many parts of the world which have not yet reached the threshold of industrialization.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_29">
+        <item>  Eğer iş terimi çalışma anlamı olarak ekonomik değeri sadece aileye değil aynı zamanda topluluğun olan yaygın anlamda kullanılırsa, kadın bu yüzden işi olan hiç mi hiç zamana sahip değildir.   </item>
+        <item>  İlkel toplumlarda ve tarımsal topluluklarda kadın arazi üzerinde, atölyelerde ve evlerde üretken iş paylaştı; onlar ticarete katıldı ve onlar modern anlamda ferah hizmetleri ve sağlık hizmeti olmadığı zaman hasta ve bir zamanda zayıf yaşlılara baktı.  </item>
+        <item>  Aslında, herhangi bir toplumda iş gücünün üretkenliği düşüktür, günlük çalışmada kadının aktif katılımı vazgeçilmezdir. </item>
+        <item>  Bu güne kadar, kadın tüm tarımsal topluluklarda alanlarda çalışır; onlar endüstrileşmenin eşiğine henüz ulaşmayan dünyanın birçok kısmında zor fiziksel iş gücünün çeşitli türlerinde döner ve zikzak çizer, inşa işi yapar.    </item>
+    </string-array>
+
+    <string-array name="english_30">
+        <item>  Genetics is the study of mechanisms of the hereditary process.  </item>
+        <item>  Modern genetics began with the experiments of Gregor Mendel in 1865.    </item>
+        <item>  He studied the inheritance of different factors in peas, and found that some traits were \'dominant\' and some \'recessive\', the \'dominant\' appearing in a ratio of very nearly three to one.  </item>
+        <item>  Mendel\'s results were ignored for many years until their rediscovery at the beginning of the twentieth century. </item>
+    </string-array>
+
+
+    <string-array name="turkish_30">
+        <item>  Genetik bilimi kalıtsal süreç mekanizmasının çalışmasıdır.  </item>
+        <item>  Modern genetik bilimi 1865\'te Gergor Mendel\'in deneyleriyle başladı.    </item>
+        <item>  O, bezelyelerdeki farklı faktörlerin katılımını çalıştı ve bazı özelliklerin baskın ve bazılarının çekinik olduğunu, baskınların neredeyse üçe bir oranda ortaya çıktığını buldu.   </item>
+        <item>  Mendel\'in sonuçları yirminci yüzyılın başlangıcındaki yeniden keşiflerine kadar yıllarca göz ardı edildi.   </item>
+    </string-array>
+
+    <string-array name="english_31">
+        <item>  A study by a group of scientists has resulted in a major step forward in overcoming drug addiction.     </item>
+        <item>  As addiction was known to cause molecular changes in the brains of addicts, causing their neurons to transmit much stronger signals of dopamine, a messenger molecule involved in reward-seeking behaviours, the scientists were hoping to prove experimentally that certain key proteins in the dopamine-producing neurons influence drug addiction.   </item>
+        <item>  It was an inspired guess, as the study found that mice in which these key proteins had been selectively switched off displayed clear addictive behaviour.   </item>
+        <item>  For instance, mice in which the CluR1 protein was switched off showed a much longer period of dependence.   </item>
+        <item>  Conversely, re-administration of cocaine after a long break immediately reignited the addiction, but mice whose NR1 protein had been deactivated resisted relapsing into addictive behaviours.  </item>
+        <item>  The ability of these proteins to determine addictive behavioural patterns makes them fascinating.   </item>
+    </string-array>
+
+
+    <string-array name="turkish_31">
+        <item>  Bir grup bilim adamı tarafından yapılan bir çalışma ilaç bağımlılığının üstesinden gelmede ileri doğru büyük bir adımla sonuçlanmış durumdadır. </item>
+        <item>  Bağımlılık, dopaminin daha güçlü sinyalleri iletmek için sinir hücrelerinin sebep olduğu bağımlıların beynindeki moleküler değişimlere sebep olunduğu için, bir haberci molekül ödül arama davranışına karışır, bilim adamları nöronları üreten dopamindeki belli anahtar proteinleri ilaç bağımlılığını etkilediğini deneysel olarak kanıtlamayı umuyorlardı.  </item>
+        <item>  Bu anahtar proteinleri bağımlı davranışları seçici olarak ilgisini kaybettiği farelerde çalışma olarak ilham veren bir tahmindi.    </item>
+        <item>  Örneğin, CluR1 proteininde fareler bağımlılığın çok daha fazla gösterdiği bir dönemde ilgisini kaybetti.    </item>
+        <item>  Aksine, uzun bir aradan sonra kokain yeniden uygulanması hemen bağımlılığı yeniden tetiklemiş, fakat NR1 proteinin fareleri bağımlı davranışı dirençli kötüleşmesi yeniden aktif oldu.  </item>
+        <item>  Bağımlı davranış şeklini belirlemek için bu proteinlerin yeteneği onları büyüleyici yapar.  </item>
+    </string-array>
+
+    <string-array name="english_32">
+        <item>  Of all the environmental problems facing us today, global warming is likely to have the most devastating effects.   </item>
+        <item>  In order to combat these, the emission of harmful gases must be reduced; for this purpose, the rainforests, which absorb carbon dioxide in vast quantities must be protected.   </item>
+        <item>  Global warming will place a premium on energy efficiency, for controlling global warming inescapably means reducing the burning of fossil fuels.    </item>
+        <item>  The two industries that are most obviously going to be affected are the power suppliers and the vehicle manufacturers, but since energy is consumed by almost everything we manufacture, design or do, the effects will be felt everywhere. </item>
+    </string-array>
+
+
+    <string-array name="turkish_32">
+        <item>  Bugün karşı karşıya olduğumuz çevresel sorunlar arasından küresel ısınmanın en tahrip edici etkilere sahip olması muhtemeldir.  </item>
+        <item>  Bunlarla mücadele etmek için zararlı gazların emisyonu azaltılmalıdır, bu amaçla geniş miktarda karbondioksit emen yağmur ormanları korunmalıdır.   </item>
+        <item>  Küresel ısınma enerji verimliliğine çok önem verir çünkü küresel ısınmayı kontrol etmek kaçınılmaz olarak fosil yakıtların yakımını azaltma anlamına gelir. </item>
+        <item>  En açık olarak etkilenecek olan iki endüstri güç sağlayıcıları ve araç imalatçılarıdır ama enerji ürettiğimiz, tasarladığımız yada yaptığımız neredeyse her şey tarafından tüketildiği için etkileri her yerde hissedilecek.    </item>
+    </string-array>
+
+    <string-array name="english_33">
+        <item>  The most common view among scientists is that mathematics and physics are quite different.  </item>
+        <item>  Physics describes the universe and depends on experiment and observation.   </item>
+        <item>  The particular laws that govern our universe, such as Newton’s laws of motion, must be determined empirically and then asserted like axioms that cannot be logically proved, merely verified.   </item>
+        <item>  Mathematics, on the other hand, is somehow independent of the universe.  </item>
+        <item>  Results and theorems, such as the properties of the integers and real numbers, do not depend in any way on the particular nature of reality in which we find ourselves.     </item>
+        <item>  Mathematical truths would be true in any universe.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_33">
+        <item>  Bilim adamları arasındaki en yaygın görüş matematik ve fiziğin oldukça farklı olmasıdır.    </item>
+        <item>  Fizik evreni tanımlar ve deney ve gözleme bağlıdır. </item>
+        <item>  Newton\'un devinim yasaları gibi evrenimizi yöneten belirli yasalar deneysel olarak belirlenmeli ve sonra mantıksal olarak kanıtlanamayan, sadece doğrulanabilen belitler gibi ileri sürülmelidir.   </item>
+        <item>  Diğer yandan matematik biraz evrenden bağımsızdır.  </item>
+        <item>  Tam sayı ve gerçek sayıların özellikler gibi sonuç ve teoremler kendimizi bulduğumuz belirli gerçeklik doğasına herhangi bir şekilde bağlı değildir.    </item>
+        <item>  Matematiksel doğrular her evrende gerçektir.    </item>
+    </string-array>
+
+    <string-array name="english_34">
+        <item>  More and more people have started to worry about the effect of television on the generations of children who have grown up with it.     </item>
+        <item>  Recent studies suggest that television has a negative effect on a child’s creative imagination.     </item>
+        <item>  Indeed, some teachers have found that some children cannot understand even a simple story if there are no pictures to help.     </item>
+        <item>  But perhaps the most worrying result concerns violence.     </item>
+        <item>  So much violence on the television screen means that children start to regard violence in real life; so they accept it in others and in themselves. </item>
+    </string-array>
+
+
+    <string-array name="turkish_34">
+        <item>  Gittikçe çoğu insan onunla büyüyen çocukların nesilleri üzerinde televizyonun etkileri hakkında endişelenmeye başlamış durumdalar.  </item>
+        <item>  Son çalışmalar televizyonun bir çocuğun yaratıcı hayal gücü üzerinde negatif bir etkiye sahip olduğunu iddia eder.  </item>
+        <item>  Gerçekte, bazı öğretmenler bazı çocukların eğer yardım etmek için resim yoksa basit bir hikayeyi bile anlayamadıklarını buldular.   </item>
+        <item>  Fakat belki en endişe verici sonuçlar şiddeti ilgilendirir. </item>
+        <item>  Dolayısıyla televizyon ekranı üzerindeki çoğu şiddet çocuğun gerçek yaşamda şiddeti düşünmeye başladığı anlamına gelir. </item>
+    </string-array>
+
+
+    <string-array name="english_35">
+        <item>  One surprising truth about hypocrisy is its relevance, contrary to widespread belief.   </item>
+        <item>  The fact that someone is a hypocrite does not necessarily mean that his or her position on an issue is false.   </item>
+        <item>  Environmentalists who throw rubbish and litter do not disprove the claims of environmentalism.  </item>
+        <item>  Politicians who publicly oppose illegal immigration but privately employ illegal immigrants in their companies do not thereby prove that contesting illegal immigration is wrong.   </item>
+        <item>  Even if every animal-rights activist is exposed as a secret meat eater, it still might be wrong to eat meat.    </item>
+        <item>  More generally, just because a person does not have the strength to live up to his or her own standards does not mean that such standards are not praiseworthy and worth trying to meet.    </item>
+        <item>  It therefore seems that charges of hypocrisy have nothing to do with the issues themselves. </item>
+    </string-array>
+
+
+    <string-array name="turkish_35">
+        <item>  Riyakarlık hakkında şaşırtıcı bir gerçek yaygın inançların aksine ilişkilidir.  </item>
+        <item>  Birisinin, bir konu üzerinde pozisyonu hatalı olduğu illaki ikiyüzlü olduğu anlamına gelmez.    </item>
+        <item>  Çöp ve atık atan çevreciler çevreciliğin iddialarını onaylamaz. </item>
+        <item>  Yasal olmayan göçe herkesin gözü önünde karşı çıkan siyasetçiler, fakat özel olarak kampanyalarında rekabet eden yasal olmayan göçmenlerin hatalı olduğu kanıtlanmaz.   </item>
+        <item>  Her hayvan hakları savunucuları gizli bir et yiyen olarak açığa çıksa bile, yinede et yemek için yanlış olabilir.   </item>
+        <item>  Çoğu genellikle sırf böyle diye bir insan kendi standartlarını ya da karşılamak için güce sahip olmaz.  </item>
+        <item>  Bu yüzden o riyakarlığın suçlaması kendi konularıyla yapacak bir şey yokmuş gibi görünür.   </item>
+    </string-array>
+
+    <string-array name="english_36">
+        <item>  Southern Africa\'s food crisis looks like being the worst in a decade.   </item>
+        <item>  Around 14.5 million people are dangerously hungry, and many have been reduced to eating wild leaves and herbs.  </item>
+        <item>  One might then expect food aid to be welcomed.  </item>
+        <item>  But Zambia is refusing to accept American donations because much of its corn and soya is genetically modified.  </item>
+        <item>  Zambia\'s president, Levy Mwanawasa, calls he stuff poison and refuses to import, despite a warning from the UN World Food Programme, on September 16th that relief supplies in his country could run out in two weeks.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_36">
+        <item>  Güney Afrika\'nın yiyecek krizi on yılda en kötüsü gibi görünür. </item>
+        <item>  Yaklaşık 14, 5 milyon insan tehlikeli bir şekilde aç ve birçoğu vahşi ve bitkileri yemesi azalmış durumundadır. </item>
+        <item>  Biri öyleyse sahip olmak için yiyecek yardımı bekler.   </item>
+        <item>  Fakat Zambia Amerikan bağışını kabul etmeyi reddeder çünkü mısırın ve soyanın çoğu genetik olarak değiştirilmiştir. </item>
+        <item>  Zambia\'nın başbakanı, Lew Mwanawasa, o zehri doldurur ve ithali reddeder, Dünya besin programından bir uyarı olsa da, 16 Eylül ülkedeki kaynaklar rahatlar 2 haftada tükenebilir.   </item>
+    </string-array>
+
+    <string-array name="english_37">
+        <item>  The city with the highest temperature yesterday was Singapore.  </item>
+        <item>  At noon the temperature in Singapore was 33⁰C and at midnight the temperature there was 25⁰C.   </item>
+        <item>  Tokyo had the second highest temperature.   </item>
+        <item>  It was only 2⁰C lower than in Singapore at noon.    </item>
+        <item>  The temperature in Rome at noon was 30⁰C, the same as in New York.  </item>
+        <item>  However, New York’s temperature at midnight was one degree lower than Rome’s.   </item>
+        <item>  The noon temperature in Cairo was 29⁰C, one degree higher than that in Hong Kong.   </item>
+        <item>  The temperature at midnight in Paris was 11⁰C less than that at noon in Paris yesterday.    </item>
+        <item>  Although Stockholm’s temperature at midnight was the same as the temperature at midnight in Paris, its noon temperature was 14⁰C.   </item>
+        <item>  The coolest city was London, with a temperature of only 22⁰C at noon and 13⁰C at midnight.  </item>
+        <item>  The cities with the highest temperature had a lot of sunshine throughout the day.   </item>
+        <item>  It was cloudy and dry at Stockholm, but it rained heavily in both London and Hong Kong. </item>
+    </string-array>
+
+
+    <string-array name="turkish_37">
+        <item>  Dün en yüksek sıcaklığı olan şehir Singapur\'du. </item>
+        <item>  Singapur\'da öğlen sıcaklığı 33 dereceydi ve gece yarısı sıcaklık 25 dereceydi.  </item>
+        <item>  Tokyo en yüksek ikinci sıcaklığa sahipti.   </item>
+        <item>  Öğlen Singapur\'dakinden sadece 2 derece düşüktü.    </item>
+        <item>  Roma\'da sıcaklık öğlen 30 dereceydi, New York\'takiyle aynıydı.  </item>
+        <item>  Ancak gece yarısı New York\'un sıcaklığı Roma\'dakinden bir derece düşüktü.   </item>
+        <item>  Kahire\'de öğlen sıcaklığı 29 dereceydi, Hong Kong\'taki sıcaklıktan bir derece yüksekti. </item>
+        <item>  Dün Paris\'te gece yarısı sıcaklık öğlen sıcaklığından 11 derece azdı.   </item>
+        <item>  Gece yarısı Stockholm\'un sıcaklığı Paris\'te gece yarısındaki sıcaklıkla aynı olmasına rağmen, öğlen sıcaklığı 14 dereceydi. </item>
+        <item>  En soğuk şehir öğlen sadece 22 derece ve gece yarısı 13 derece sıcaklıkla Londra\'ydı.   </item>
+        <item>  En yüksek sıcaklığı olan şehirlerde gün boyu çok güneş ışığı vardı. </item>
+        <item>  Stockholm\'da bulutlu ve kuruydu ama hem Londra\'da hem Hong Kong\'ta çok fazla yağmur yağdı.  </item>
+    </string-array>
+
+    <string-array name="english_38">
+        <item>  Worms are intestinal parasites, but the only common types found in Britain are threadworms, the tiny thread-like worms which cause irritability and itching in the skin of children, less often in adults.  </item>
+        <item>  Then there are round-worms, somewhat resembling the ordinary-garden earthworm, which seldom lead to symptoms.   </item>
+        <item>  Finally, the third group is the tapeworms which may reach a length of 3 or even 6m.     </item>
+        <item>  Many parasitic worms lead a double life, they spend part of their life in the human intestine and the other part in the muscles of another animal.  </item>
+        <item>  The tapeworm, for example, while in the human intestine, lays eggs which pass out of the body in the excreta, and are then swallowed by various animals, especially in those parts of the world where human excreta are used as manure in the fields.   </item>
+    </string-array>
+
+
+    <string-array name="turkish_38">
+        <item>  Kurtlar bağırsak parazitleridir ama İngiltere\'de bulunan tek yaygın tür sinirliliğe ve çocukların cildinde yetişkinlerde daha az sık olan kaşıntıya sebep olan küçük iplik gibi kıl kurtlarıdır.    </item>
+        <item>  Sonra, nadiren belirtilere sebep olan biraz sıradan yer kurtlarına benzeyen yuvarlak kurtlar vardır.    </item>
+        <item>  Son olarak üçüncü grup 1 metre ya da hatta 6 metre uzunluğa ulaşabilen tenyadır.    </item>
+        <item>  Birçok parazit kurtları iki hayat sürerler, hayatlarının bir kısmını insan bağırsağında, diğer kısmını başka bir hayvanın kaslarında geçirirler.    </item>
+        <item>  Örneğin tenyalar insan bağırsağındayken salgıda vücuttan geçen ve sonra çeşitli hayvanlar tarafından çiğnenen, özellikle insan salgısının arazilerde gübre olarak kullanıldığı dünyanın bu kısımlarında yumurtalar bırakılar.   </item>
+    </string-array>
+
+    <string-array name="english_39">
+        <item>  Even though there have been truly significant advances in modern medicine, health problems still abound and cause untold misery.    </item>
+        <item>  Although heart disease and cancer were rare at the beginning of the 20th century, today these two diseases strike with increasing frequency, in spite of billions of dollars in research to combat them, and in spite of tremendous advances in diagnostic and surgical techniques.     </item>
+        <item>  In America, one person in three suffers from allergies, one in ten has ulcers and one in five is mentally ill.  </item>
+        <item>  Every year, a quarter of a million infants are born with a birth defect and undergo expensive surgery, or are hidden away in institutions.  </item>
+        <item>  Other degenerative diseases such as arthritis, multiple sclerosis, diabetes, and chronic fatigue afflict a significant majority of Americans.   </item>
+        <item>  Further learning disabilities make life miserable for seven million young people and their parents.     </item>
+        <item>  These diseases were extremely rare only a generation or two ago.    </item>
+        <item>  Today, chronic illness afflicts nearly half of all Americans and causes three out of four deaths in the United States.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_39">
+        <item>  Modern tıpta gerçekten önemli ilerlemeler olmasına rağmen sağlık sorunları hala çok sayıdadır ve anlatılmamış gizeme sebep olur.    </item>
+        <item>  Kalp hastalığı ve kanser 20. yüzyılın başlangıcında nadir olmasına rağmen bugün onlarla savaşmak için araştırmada milyarlarca dolara rağmen ve teşhis ve cerrahi tekniklerdeki büyük ilerlemelere rağmen bu iki hastalık artan sıklıkla dikkat çekiyor. </item>
+        <item>  Amerika\'da üç kişiden birisi alerjiden müzdarip, on kişiden birinin ülseri var ve beşinden biri akıl hastasıdır.    </item>
+        <item>  Her yıl bir milyon bebeğin dörtte biri doğum kusuruyla doğar ve pahalı ameliyat olur ya da kurumlarda gizlenir. </item>
+        <item>  Eklem iltihabı, çoklu skleroz, şeker hastalığı ve kronik yorgunluk gibi diğer dejeneratif hastalıklar Amerikalıların önemli bir çoğunluğuna acı verir.  </item>
+        <item>  Daha fazla öğrenme güçlükleri yedi milyon genç insan ve ebeveynleri için hayatı berbat eder.    </item>
+        <item>  Bu hastalıklar sadece bir ya da iki kuşak önce aşırı derecede nadirdi.  </item>
+        <item>  Günümüzde kronik hastalık neredeyse tüm Amerikalıların neredeyse yarısına acı verir ve ABD\'de dört ölümden üçüne sebep olur.    </item>
+    </string-array>
+
+    <string-array name="english_40">
+        <item>  The literature of any society reveals the values, the conflicts and the experiences, both past and present of its members.  </item>
+        <item>  Through the literature of a people it is possible to gain some insight into their attitudes, beliefs and problems.  </item>
+        <item>  Much of human experience is similar because basically all men have similar needs, and the reader may find his own concern voiced by character in a novel written centuries before.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_40">
+        <item>  Herhangi bir toplumun edebiyatı değerleri, çatışmaları, deneyimleri, üyelerinin hem geçmişini hem de şimdiki zamanını ortaya çıkarır.   </item>
+        <item>  Bir halkın edebiyatı sayesinde onların tutumlarının, inançlarının ve sorunlarının iç yüzünü anlamak olasıdır.   </item>
+        <item>  İnsan deneyimlerinin çoğu benzerdir çünkü temelde tüm insanlar benzer ihtiyaçlara sahiptir ve okuyucu yüzyıllar önce yazılmış bir romanda karakter tarafından ifade edilen kendi ilgisini bulabilir.    </item>
+    </string-array>
+
+    <string-array name="english_41">
+        <item>  All our sources of power are \'natural\'; we have found that matter can be turned into energy and energy into matter, but that nothing can be created.    </item>
+        <item>  We can convert one into the other with relative ease, but all our power is based upon the control of natural sources, in the sense that the energy or fuel is never man-made.   </item>
+        <item>  It already exists in the wind and in rivers; or it may be stored up as in oil or coal.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_41">
+        <item>  Tüm güç kaynaklarımız doğaldır; maddenin enerjiye, enerjinin maddeye dönüştürülebileceğini ancak hiçbir şeyin yaratılamayacağını bulduk.    </item>
+        <item>  Birini diğerine kolayca dönüştürebiliriz ancak enerji ya da yakıtın hiç insan yapımı olmaması bakımından tüm gücümüz doğal kaynakların kontrolüne dayanır.  </item>
+        <item>  Zaten rüzgarda ve nehirlerde vardır, ya da yağda veya kömürde olduğu gibi depolanabilir.    </item>
+    </string-array>
+
+    <string-array name="english_42">
+        <item>  Originally grown in China, rice has a number of qualities that made it attractive to early farmers.     </item>
+        <item>  It yielded more than other early domesticated grains like wheat and barley.     </item>
+        <item>  The low moisture content of its seed allowed for easy drying and long storage, and the seeds resisted bruising and were easily transported.     </item>
+        <item>  Rice cultivation gradually spread from eastern Asia, very likely facilitated by the ancient Persians whose empire stretched from Central Asia into Western Europe.  </item>
+        <item>  For the ancient Greeks, it was an expensive import, not a dietary staple.   </item>
+        <item>  When first introduced in Britain, rice was valued as a medicine.    </item>
+        <item>  Rice reached the Americas by the 1650s, most likely on trade ships, by African slaves, and it turned into a major cash crop in the Carolinas within a century.  </item>
+        <item>  Soon rice was being grown widely in the southern United States and South America.   </item>
+        <item>  Today, rice is a dietary staple for about half of the world’s population.   </item>
+        <item>  Developed into more than 8,000 varieties, including genetically-engineered varieties, it is traded as a commodity on local and world markets.   </item>
+    </string-array>
+
+
+    <string-array name="turkish_42">
+        <item>  Başlangıçta Çin\'deki büyüme, pirinç ilk çiftçilere çekici yapan birçok niteliğe sahiptir.   </item>
+        <item>  O buğday ve arpa gibi diğer ilk evcilleştirilenlerden daha fazla ürün sağladı.  </item>
+        <item>  Onun tohumunun düşük nem içeriği kolay kuruma ve uzun depolama için izin verdi ve tohumlar çürümeye dirençliydi ve kolayca taşındı. </item>
+        <item>  Pirinç yetiştirme aşamalı olarak Doğu Asya\'dan yayıldı, İmparatorluk Merkez Asya\'dan Batı Avrupa\'ya uzandığı eski Persler tarafından muhtemelen çok kolaylaştı. </item>
+        <item>  Eski Yunanlılar için, pahalı bir ithaldi, besinsel bir lif değildi. </item>
+        <item>  İlk İngilitere\'de üretildiği zaman, pirinç bir ilaç olarak değerlendirildi. </item>
+        <item>  Pirinç 1650\'lerde Afrikalı köleler tarafından Amerikalılar\'a ulaştı, ve o bir yüzyıl içinde Carolinasda ana bir nakit ürüne dönüştü.    </item>
+        <item>  Kısa süre içinde pirinç Amerika ve Güney Amerika\'da yaygın bir şekilde yetiştiriliyordu.    </item>
+        <item>  Bugün pirin dünyanın nüfusunun yaklaşık yarısı için besinsel bir liftir.    </item>
+        <item>  8,000 çeşitliliğinden daha fazla gelişmiş, genetik yapısı değiştirilmiş dahil, o yerel ve dünya piyasası üzerinde bir mal olarak ticaret edilir.    </item>
+    </string-array>
+
+    <string-array name="english_43">
+        <item>  New evidence suggests that Noah\'s flood really did happen.  </item>
+        <item>  A recent expedition has confirmed that a huge flood occurred 7000 years ago in the Black Sea.   </item>
+        <item>  The theory was first put forward last year by marine geologists William Ryan and Walter Pitman.     </item>
+        <item>  In their book Noah\'s Flood, they argue that the great flood resulted from the last ice age, which peaked 12, 000 years ago.     </item>
+        <item>  When the poles froze, ocean levels dropped and cut off the Mediterranean from the Black Sea, which dropped 150 m to become a lake with fertile shores.  </item>
+        <item>  When the ice thawed, the Mediterranean rose back up and broke through what is now known as the Bosphorus with a force equal to 200 Niagara Falls for a period of two years.     </item>
+        <item>  The Black Sea rose, consuming a mile of shore a day.    </item>
+        <item>  Those who had settled there fled, spreading their stories of the flood. </item>
+    </string-array>
+
+
+    <string-array name="turkish_43">
+        <item>  Yeni kanıt Nuh tufanının gerçekten meydana geldiğini öne sürüyor.   </item>
+        <item>  Yeni bir keşif gezisi 7000 yıl önce Karadeniz\'de büyük bir tufanın olduğunu onayladı.   </item>
+        <item>  Teori ilk kez geçen yıl deniz jeologları William Ryan ve Walter Pitman tarafından ortaya atıldı.    </item>
+        <item>  Kitapları Nuh Tufanı\'nda, büyük tufanın 12,000 yıl önce en üst seviyeye çıktığı son buzul çağından kaynaklandığını öne sürüyorlar.  </item>
+        <item>  Kutuplar donduğunda deniz seviyeleri azaldı ve Akdeniz\'i verimli sahillere sahip bir göl olmak için 150 metre düşen Karadeniz\'den ayırdı.   </item>
+        <item>  Buz çözüldüğünde Akdeniz yeniden yükseldi ve bugün iki yıllık bir dönemdir 200 Niagara Şelaleleriyle eşit bir güce sahip olan Bosphorus olarak bilinen şeyi yarıp geçti.    </item>
+        <item>  Günde bir mil sahil yok eden Karadeniz yükseldi.    </item>
+        <item>  Oraya yerleşenler tufan hikayelerini yayarak kaçtı. </item>
+    </string-array>
+
+    <string-array name="english_44">
+        <item>  An antibiotic that removes metals from the brain is emerging as a prime candidate for treating Alzheimer\'s.     </item>
+        <item>  This boosts a controversial theory that blames the accumulation of metals, rather than the formation of insoluble plaques, for the disease\'s characteristic mental deterioration.   </item>
+        <item>  The antibiotic, clioquinol, binds to copper and zinc and is small enough to get into the brain.     </item>
+        <item>  It is no longer manufactured but was last used in the 1970s to treat intestinal infections.     </item>
+        <item>  Now, in various medical schools, efforts are being made to resurrect the drug to treat Alzheimer\'s. </item>
+    </string-array>
+
+
+    <string-array name="turkish_44">
+        <item>  Beyinden metalleri ortadan kaldıran bir antibiyotik Alzheimer\'ı tedavi etmek için bir ilk aday olarak ortaya çıkar. </item>
+        <item>  Bu hastalığın karakteristik zihinsel bozukluğu için çözülemeyen levhaların oluşumundan ziyade, metallerin birikmesini suçlayan tartışmalı bir teoriyi artırır.  </item>
+        <item>  Antibiyotik, clioquinol bakıra ve çinkoya bağlar ve beyine girmesi için yeterince küçüktür. </item>
+        <item>  Artık üretilmedi fakat bağırsak enfeksiyonlarını tedavi etmek için 1970\'lerde son defa kullanıldı.  </item>
+        <item>  Şimdi, çeşitli tıp okullarında, çabalar Alzheimer\'ın tedavisi için ilacı yeniden canlandırmak için yapılıyor.   </item>
+    </string-array>
+
+    <string-array name="english_45">
+        <item>  Today the world faces a growing crisis over the management of its great rivers.     </item>
+        <item>  In recent years, most of the great rivers in the world, such as the Yellow River in China, the Indus, the Colorado, and the Nile, have all periodically run empty because mankind has used their every last drop.   </item>
+        <item>  Indeed, there is a huge unmet demand in the world for water.    </item>
+        <item>  More than a billion people have no access to clean drinking water, and while it is hoped that this figure will be halved by 2015, nobody is sure where the water will come from.    </item>
+        <item>  With today’s trends, one-third of the world population will be seriously short of water by 2025.    </item>
+        <item>  Politicians in China, India, Pakistan, Egypt and other water stressed countries want their water engineers to find solutions – and fast.    </item>
+    </string-array>
+
+
+    <string-array name="turkish_45">
+        <item>  Günümüzde dünya büyük nehirlerinin idaresi üzerinde büyüyen bir krizle yüzleşiyor.  </item>
+        <item>  Son yıllarda Çin\'de Sarı Irmak, İndus, Kolorado ve Nil Nehri gibi dünyadaki büyük nehirlerin çoğu boş akıyor çünkü insanoğlu onların son damlasına kadar kullanmış durumda. </item>
+        <item>  Aslında dünyada suya karşılanmamış büyük bir talep vardır.  </item>
+        <item>  Bir milyar insandan fazlasının temiz içme suyuna ulaşımı yoktur ve bu rakam 2015\'e kadar yarıya ineceği umulurken hiç kimse suyun nereden geleceğinden emin değil.  </item>
+        <item>  Günümüzün eğilimiyle dünya nüfusunun üçte biri 2025\'e kadar su eksikliği olacak.    </item>
+        <item>  Çin, Hindistan, Pakistan, Mısır ve diğer su stresli ülkelerdeki politikacılar su mühendislerinin çözüm bulmalarını istiyor - ve hızlı.  </item>
+    </string-array>
+
+    <string-array name="english_46">
+        <item>  William Saroyan’s parents and relatives were Armenian immigrants who settled in the farming area around Fresno, California.     </item>
+        <item>  Saroyan left school at fifteen and went to work, doing odd jobs.    </item>
+        <item>  During this time he read widely and began writing in his distinctive natural style.     </item>
+        <item>  By the late 1930s his many short stories, novels and plays had established him as a writer.     </item>
+        <item>  Many of his stories have grown out of his experiences in the Armenian community around Fresno.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_46">
+        <item>  William Saroyan\'ın ailesi ve akrabaları Kaliforniya Fresno çevresindeki tarım bölgelerine yerleşen Ermeni göçmenlerdi.  </item>
+        <item>  Saroyan on beş yaşında okulu bıraktı ve tuhaf işler yaparak işe başladı.    </item>
+        <item>  Bu süre boyunca çokça okudu ve kendine özgü doğal tarzında yazmaya başladı. </item>
+        <item>  1930\'ların sonlarına kadar çoğu kısa hikayeleri, romanları ve oyunları onu yazar olarak kabul ettirdi.  </item>
+        <item>  Hikayelerinin çoğu Fresno çevresinde Ermeni toplumundaki deneyimlerinden gelmiştir. </item>
+    </string-array>
+
+    <string-array name="english_47">
+        <item>  Mount Vesuvius in southern Italy is actually a volcano inside the exploded skeleton of an older volcano.    </item>
+        <item>  Looked at from above, the remaining ridge of a much larger volcano can be seen on the north side.   </item>
+        <item>  This older volcano had probably erupted violently long before human settlement.     </item>
+        <item>  Southern Italy is unstable ground.  </item>
+        <item>  The African continental plate, on which most of the Mediterranean Sea rests, is actually diving beneath the European plate.     </item>
+        <item>  That kind of underground collision produces molten rock, or magma, rich in volatile gases such as sulfur dioxide.   </item>
+        <item>  Under pressure underground, these gases stay dissolved.     </item>
+        <item>  But when the magma rises to the surface, the gases are released.    </item>
+        <item>  Accordingly, when volcanoes like Vesuvius erupt, they tend to erupt explosively.    </item>
+        <item>  To this day, in fact, Vesuvius remains one of the world’s most dangerous volcanoes; some 3.5 million Italians live in its shadow.   </item>
+        <item>  Although monitoring devices are in place to warn of the volcano’s activity, if there were a major eruption with little warning, there could be a tremendous loss of life.   </item>
+    </string-array>
+
+
+    <string-array name="turkish_47">
+        <item>  Güney İtalya\'daki Vezüv dağı aslında en eski bir volkanın patlayan iskeleti içinde bir volkandır.   </item>
+        <item>  Üsten göz atılan, daha büyük bir volkanın kalan yamacı kuzey kenarı üzerinden görülebilir.  </item>
+        <item>  En yaşlı volkan muhtemelen insan yerleşmesinden uzun süre önce şiddetli bir şekilde patladı.    </item>
+        <item>  Güney İtalya değişken yerdedir. </item>
+        <item>  Akdeniz\'in geri kalanların çoğu üzerindeki Afrika kıta levhası aslında Avrupa kıtası altında hareket ediyor.    </item>
+        <item>  Yeraltı çarpmalarının türü örneğin sülfür dioksit gibi uçucu gaz bakımından zengin erimiş kaya ya da magma üretir.  </item>
+        <item>  Yeraltı baskısı altında bu gazlar çözülmemiş kalır. </item>
+        <item>  Fakat magma yüzeye arttığı zaman gazlar salınır.    </item>
+        <item>  Bu doğrultuda Vezüv gibi volkanlar patladığı zaman onlar patlayıcı şekilde patlama eğilimindedir.   </item>
+        <item>  Bu günde, aslında Vezüv dünyanın en tehlikeli volkanlarından biridir; yaklaşık 3,5 milyon İtalyalı gölgesinde yaşar.    </item>
+        <item>  Her ne kadar izleme araçları volkanın hareketini uyarmak için yerinde olsa da, eğer küçük uyarıyla büyük bir patlama vardır, yaşamın büyük bir kaybı olabilir.  </item>
+    </string-array>
+
+    <string-array name="english_48">
+        <item>  Sometime between 3000 and 2000 BC, a great flood occurred in Mesopotamia.   </item>
+        <item>  This event had such an effect upon the peoples who lived in that area that several flood myths developed.   </item>
+        <item>  There are many similarities between them.   </item>
+        <item>  In all of these myths, there is always a leader who is warned to prepare for a flood.   </item>
+        <item>  The leader builds a ship, stores the necessities of life on board, and so survives the flood.   </item>
+        <item>  After the flood he lands safely on a mountainside, and the human race continues.    </item>
+        <item>  There are small differences, in the details of the myths, of course, but the only important difference is the cause of the flood.   </item>
+        <item>  In some myths, the flood comes as a punishment from the gods for man’s bad behaviour; in others there is no explanation given.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_48">
+        <item>  Milattan önce 3000 ve 2000 arasında bir zaman Mezopotamya\'da büyük bir sel meydana geldi.   </item>
+        <item>  Bu olayın o alanda yaşayan insanlar üzerinde o kadar etkisi vardı ki birkaç sel efsanesi ortaya çıktı.  </item>
+        <item>  Onlar arasında birçok benzerlik vardır. </item>
+        <item>  Bu efsanelerin tümünde her zaman sele hazırlıklı olması için uyarılan bir lider vardır. </item>
+        <item>  Lider bir gemi inşa eder, gemide hayatın ihtiyaçlarını depolar ve böylece selden sağ kurtulur.  </item>
+        <item>  Selden sonra güvenli bir şekilde dağ yamacına iner ve insan ırkı devam eder.    </item>
+        <item>  Elbette efsanelerin detaylarında küçük farklılıklar vardır ama tek önemli fark selin sebebidir. </item>
+        <item>  Bazı efsanelerde sel insanoğlunun kötü davranışları için Tanrı\'dan ceza olarak gelir; diğerlerinde belli bir açıklama yoktur.   </item>
+    </string-array>
+
+    <string-array name="english_49">
+        <item>  First aid refers to the immediate, direct treatment of an injured person.   </item>
+        <item>  Anyone with a basic understanding of medical treatment can administer aid at the first signs of trouble.    </item>
+        <item>  Simple procedures may include stopping blood loss by applying pressure, dressing a wound, treating a burn with ointment, or setting a bone with a splint.   </item>
+        <item>  Many minor injuries can be handled with simple, immediate medical attention.    </item>
+        <item>  A small cut, burn, or blister, for instance, can be attended to by thoroughly cleaning the injury, applying a topical antibiotic cream, and covering it with a breathable bandage or wrap.  </item>
+        <item>  Treating bruises, muscle strains, swelling, and animal bites usually involves icing and compressing the injuries, as well as taking over-the-counter anti-inflammatory or pain medication.  </item>
+        <item>  Individuals in most countries can get first aid training through courses offered by community health organizations and hospitals.   </item>
+        <item>  Training may last anywhere from a few hours to three or four days, depending on the scope of a program.     </item>
+        <item>  Individuals in training usually learn how to recognize signs of choking, concussions, and blood loss, and practice the means of treating such ailments.     </item>
+        <item>  Successful first aid procedures can provide relief from pain and uncomfortable symptoms and prevent further damage from infection.  </item>
+        <item>  When treatment is administered quickly, many injuries are able to heal completely without a visit to a medical professional or emergency room.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_49">
+        <item>  İlk yardım, yaralı bir kişinin derhal doğrudan tedavisi olarak nitelendirilmektedir.    </item>
+        <item>  Temel bir tıbbi tedavi bilgisine sahip olan herkes sorunun ilk sinyallerinde ilk yardım verebilir.  </item>
+        <item>  Basit prosedürler basınç uygulayarak kan kaybını engellemeyi, pansuman yapmayı, yanığa merhem sürmeyi ya da bir kemiği atel ile sarmayı kapsayabilir.   </item>
+        <item>  Birçok ufak yaralanmaların basit, anında tıbbi müdahale ile üstesinden gelinebilir. </item>
+        <item>  Örneğin, küçük bir kesik, yanık ya da kabarıklık, incinme derinlemesine temizlenerek, lokal antibiyotik krem uygulayarak ve delikli bandaj ya da bezle onu kapatarak tedavi edilebilir. </item>
+        <item>  Morarmaları, kas gerginliklerini, şişkinlikleri ve hayvan ısırıklıklarının tedavisi çoğunlukla reçetesiz iltihap önleyici ya da ağrı kesici ilaç almanın yanı sıra buz kaplama ve yaraları sıkıştırmayı içermektedir.   </item>
+        <item>  Çoğu ülkedeki insanlar ilk yardım eğitimini toplum sağlığı örgütleri ve hastaneler tarafından verilen kurslarla alabilmektedirler.  </item>
+        <item>  Eğitim, programın kapsamına bağlı olarak iki saatten üç ya da dört güne kadar sürebilir.    </item>
+        <item>  Eğitimdeki kişiler çoğunlukla tıkanma, darbe ve kan kaybı sinyallerini nasıl tanıyacaklarını ve bu tarz rahatsızlıkların tedavi araçlarını kullanmayı öğrenirler.   </item>
+        <item>  Başarılı ilk yardım yöntemleri ağrı ve rahatsız edici belirtilerden rahatlamayı ve enfeksiyondan daha fazla hasarı engellemeyi sağlayabilir.    </item>
+        <item>  Tedavi hızlı bir şekilde uygulandığında, çoğu yaralanmalar doktor ya da acil servise gitmeden tamamıyla iyileştirilebilir.  </item>
+    </string-array>
+
+    <string-array name="english_50">
+        <item>  Parkinson’s and Alzheimer’s diseases are the most common diseases which affect many people in the world.    </item>
+        <item>  Approximately, 1 million people in the world suffer from Parkinson’s disease, a motor disorder characterized by difficulty in initiating movements and slowness of movement.    </item>
+        <item>  Patients often have a masked facial expression, poor balance, and a flexed posture.     </item>
+        <item>  Like Alzheimer’s disease, which is characterized by confusion, memory loss, and a variety of other symptoms, Parkinson’s disease is progressive, and the risk increases with age.   </item>
+        <!--<item>  The incidence of the Parkinson’s disease is about 1% at the age of 65, and about 5% at the age 85.  </item>
+        <item>  Parkinson’s disease appears to result from a combination of environmental and genetic factors.  </item>-->
+        <item>  Evidence for a genetic role includes the fact that some families with an increased incidence of Parkinson’s disease carry a mutated form of the gene for a protein which is important in normal brain function.     </item>
+        <item>  The symptoms of Parkinson’s disease result from the death of neurons in the mid-brain.  </item>
+        <item>  As a result, at present, there is no cure for Parkinson’s disease, although various treatments can help control the symptoms.   </item>
+    </string-array>
+
+
+    <string-array name="turkish_50">
+        <item>  Parkinson\'un ve Alzheimer\'in hastalığı dünyadaki birçok insanı etkileyen en yaygın hastalıklardan biridir.  </item>
+        <item>  Yaklaşık olarak, dünyadaki 1 milyon insan Parkinson hastalığından acı çeker, bir motor bozukluk hareketin yavaşlığı ve hareketlere başlamada zorlanmasıyla özdeşleşir.  </item>
+        <item>  Hastalar genellikle yüzsel ifade, zayıf denge, ve esneyen duruş.    </item>
+        <item>  Diğer semptomların çeşitliliği ve hafıza kaybı, karışıklıkla özdeşleşen Alzheimer hastalığı gibi, Parkinson hastalığı ilerler ve risk yaşla artar.  </item>
+        <item>  Genetik bir rol için kanıt Parkinson Hastalığının artan bir sıklığına sahip aileler normal beyin işlevinde önemli olan bir protein için genin mutasyona uğramış bir formunu taşıyan gerçeği içerir. </item>
+        <item>  Parkinson Hastalığının semptomları orta beyinde nöronların ölümünden kaynaklanır.   </item>
+        <item>  Sonuç olarak, Parkinson hastalığı için iyileşme yoktur, fakat çeşitli tedaviler semptomları kontrol etmeye yardım edebilir. </item>
+    </string-array>
+
+    <string-array name="english_51">
+        <item>  A nation-state is a state, or country, that has defined borders and territory.  </item>
+        <item>  It is additionally a country in which a nation of principally the same type of people exists, organized by either race or cultural background.  </item>
+        <item>  In the nation-state, generally, everyone would speak the same language, probably practice the same or similar types of religion, and share a set of cultural, “national,” values.   </item>
+        <item>  In fact, most countries do not completely fall within the definition of the nation-state, since most countries have immigrants.     </item>
+        <item>  Once immigrants come to a country, especially in large numbers, the nation-state can no longer exist.   </item>
+        <item>  Countries with only a small number of immigrants may still be seen as containing predominantly the same ethnicity and shared culture and may thus be considered as approaching the theoretical nation-state.    </item>
+        <item>  The desire to establish a nation-state can be one of the most devastating ones and may result in either mass eviction of other nationalities or ethnic cleansing.   </item>
+        <item>  Hitler attempted to establish Germany as a nation-state by first exiling Jews, and then ultimately, by killing the majority of Jewish residents in Germany, and in other countries he conquered like Poland.    </item>
+        <item>  Attempting to enforce a nationstate where none truly exists often results in high numbers of deaths for large minority populations and a lack of humanity to the extreme.   </item>
+    </string-array>
+
+
+    <string-array name="turkish_51">
+        <item>  Ulus devlet sınır ve bölgeleri tanımlanmış bir devlet ya da ülkedir.    </item>
+        <item>  Ayrıca, çoğunlukla içinde ya ırk ya da kültürel geçmişle örgütlenmiş benzer özellikteki insanların var olduğu bir ülkedir.  </item>
+        <item>  Ulus devlette genellikle herkes aynı dili konuşur, muhtemelen aynı ya da benzer dine inanırlar ve bir takım kültürel, ulusal değerleri paylaşırlar. </item>
+        <item>  Aslında, birçok ülke ulus devlet tanımına tamamıyla uymamaktadır çünkü çoğu ülke göçmenlere sahiptir.   </item>
+        <item>  Göçmenler özellikle büyük sayıda bir ülkeye geldiğinde, ulus devlet artık varlığını sürdüremez. </item>
+        <item>  Az sayıda göçmeni olan ülkelerin ağırlıklı olarak benzer etnik kökeni ve paylaşılan kültürü içerdikleri görülebilir ve dolayısıyla kuramsal anlamda ulus devlete yaklaştıkları düşünülebilir.   </item>
+        <item>  Ulus devlet kurma arzusu en yıkıcı şeylerden biri olabilir ve diğer milletlerin toplu tahliyesi ve etnik temizlikle sonuçlanabilir. </item>
+        <item>  Hitler öncelikle Yahudileri sürgüne göndererek ve ardından en sonunda Almanya ve Polanya gibi ele geçirdiği diğer ülkelerde Yahudilerin çoğunluğunu öldürerek Almanya’yı ulus devlet olarak kurmaya kalkışmıştır.   </item>
+        <item>  Hiçbir zaman gerçekten var olmayan bir ulus devleti zorla yapmaya kalkışmak çoğunlukla geniş azınlık nüfuslarının yüksek sayıda ölümleriyle ve aşırı ölçüde insaniyetten uzaklıkla sonuçlanmaktadır.    </item>
+    </string-array>
+
+    <string-array name="english_52">
+        <item>  Many bilingual individuals say they feel like a different person depending on which language they are speaking.     </item>
+        <item>  A new study lends credibility to their claims.  </item>
+        <item>  Nairan Ramirez at the University of Texas charted the personality traits of 225 Spanish/English bilinguals in both the US and Mexico as they responded to questions presented in each language.     </item>
+        <item>  She found three significant differences:  </item>
+        <item>  when using English, the bilinguals were extroverted, agreeable and more conscientious than when using Spanish.  </item>
+        <item>  Bilingual individuals can assume different roles depending on environmental cues.   </item>
+        <item>  To show that changes in personality can be triggered by something as subtle as language suggests that personality is more flexible than is widely expected.     </item>
+        <item>  The results are significant in that they document the contextual nature of personality.     </item>
+        <item>  Given the increasing number of bilingual people, it is important to develop a better understanding of bilingual minds.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_52">
+        <item>  Birçok iki dil bilen birey dilin konuşuyor olması üzerine dayanan farklı bir insan gibi hissettiğini söyler.    </item>
+        <item>  Yeni bir çalışma iddialara güvenilirlik verir.  </item>
+        <item>  Texas\'ın üniversitesindeki Nairan Ramirez hem Amerika hem de Meksika’daki 225 İspanyolca ve İngilizce iki dil bilenin kişisel özelliklerini haritasını yaptı onlar her dilde sunulan soruları yanıtladı.    </item>
+        <item>  O, 3 önemli farklılık buldu.    </item>
+        <item>  İki dil bilenler İspanyolca kullandıkları zamandan daha dikkatli, uysal, dışa dönüktü.  </item>
+        <item>  İki dil bilen bireyler çevresel ipuçları üzerine dayanan farklı roller üstlenebilir.    </item>
+        <item>  Kişilikteki değişimleri göstermek için kişiliğin yaygın bir şekilde beklenenden daha esnek olduğunu önerir, dil kadar güç algılanan bir şey tarafından tetiklenebilir.  </item>
+        <item>  Sonuçlar önemlidir çünkü onlar kişiliğin içeriksel doğasını belgelendirir.  </item>
+        <item>  İki dilli insanların belli artan sayısı, iki dilli zihnin daha iyi bir anlayışını geliştirmek önemlidir.    </item>
+    </string-array>
+
+    <string-array name="english_53">
+        <item>  Chronic psychological stress depends much more on the person than on what happens to him.   </item>
+        <item>  Someone promoted above his abilities will probably be under constant stress but some personalities may not be aware of the pressure, or of not being up to the job.     </item>
+        <item>  On the other hand, someone in a position well within his abilities may still find everything a strain.  </item>
+        <item>  Perhaps it is because he does not realize he can do it easily or because he wants to win promotion; or simply because that is his way of going about things.    </item>
+    </string-array>
+
+
+    <string-array name="turkish_53">
+        <item>  Kronik psikolojik stres ona olan ne olduğu üzerinden insan üzerine daha fazladır.   </item>
+        <item>  Yetenekleri üzerinde ilerleyen birisi muhtemelen sabit stres altında olacak, fakat bazı kişilikler baskının farkında olmaz ya da işe kapalı olmaz.  </item>
+        <item>  Diğer yandan, yetenekleri içinde daha iyi pozisyondaki birisi yine de her şeyi bir gerginlik bulabilir. </item>
+        <item>  Belki o fark etmez, o terfi etme kazanmayı istediği için o kolayca yapabilir; ya da sadece nesneler hakkında gitmenin yolundadır.   </item>
+    </string-array>
+
+    <string-array name="english_54">
+        <item>  Geologists are especially interested in the mineral content of rocks.   </item>
+        <item>  All rocks consist of one or more minerals, many of which are needed as raw materials for industry or have properties which make them valuable or useful.    </item>
+        <item>  Gold, for example, is valuable.     </item>
+        <item>  Diamonds are both valuable and useful.  </item>
+        <item>  Coal is also found in rocks, usually underground and it is vitally important as fuel in modern life.    </item>
+        <item>  Britain is rich in coal because it was covered in dense forest more than 300 million years ago.     </item>
+        <item>  Coal is formed from the remains of trees and the other plants which have gradually been compressed and hardened in the rock structure of the earth. </item>
+    </string-array>
+
+
+    <string-array name="turkish_54">
+        <item>  Yer bilimciler özellikle kayaların mineral içeriğiyle ilgilidir.    </item>
+        <item>  Tüm kayalar, çoğunun sanayi için ham madde olarak ihtiyaç duyulduğu ve onları değerli ve kullanışlı yapan özelliklere sahip olduğu bir ya da daha fazla mineralden oluşur.  </item>
+        <item>  Örneğin altın değerlidir.   </item>
+        <item>  Elmaslar hem değerli hem kullanışlıdır. </item>
+        <item>  Kömür kayalarda genellikle yer altında bulunur ve modern hayatta yakıt kadar hayati önemlidir.  </item>
+        <item>  İngiltere kömür bakımından zengindir çünkü 300 milyon öncesinden daha fazla yoğun ormanla kaplıydı. </item>
+        <item>  Kömür, ağaçların kalıntılarından ve dünyanın kaya yapısında yavaş yavaş sıkıştırılmış ve sertleştirilmiş olan diğer bitkilerin kalıntılarından oluşturulur. </item>
+    </string-array>
+
+    <string-array name="english_55">
+        <item>  Carston is a very historic town in the north of England.    </item>
+        <item>  The Romans arrived in Carston two thousand years ago and they stayed for three hundred years.   </item>
+        <item>  Even today, you can still see many signs of the Romans.     </item>
+        <item>  There is still the large city wall that they built with its three gates: Main, East and South.  </item>
+        <item>  The wall is not complete but you can still see the three gates.     </item>
+        <item>  Many tourists comes to Carston to see the Roman ruins.  </item>
+        <item>  Carston is famous for its history, but it\'s also a modern town with 74,000 people.  </item>
+        <item>  They work in various jobs.  </item>
+        <item>  The most common occupation is tourism, but there are also many people who work in the local car factory.    </item>
+        <item>  The factory makes sports cars that are exported all over the world.     </item>
+        <item>  There is another factory in Carston and in this factory, four hundred people work and they make microwave ovens.    </item>
+        <item>  Carston also has a small football team which is not very successful and a rugby team that is more successful.   </item>
+        <item>  The rugby team won the regional championship three years ago and one of their players, Danny Biggs, played three times for England.     </item>
+        <item>  He still lives in Carston.  </item>
+        <item>  He wants to play for Carston rugby team again before he retires.    </item>
+        <item>  Another famous Carston resident is the Hollywood movie star, Jason John Lee.    </item>
+        <item>  He left Carston when he was 15 years old, but returns every summer to visit his family.     </item>
+        <item>  Jason\'s school now has a small theatre named after Jason Jason gave his school some money to build the theatre.     </item>
+        <item>  Maybe in the future, there will be other famous actors from Carston!    </item>
+    </string-array>
+
+
+    <string-array name="turkish_55">
+        <item>  Carston, İngiltere\'nin kuzeyinde çok tarihi bir kasabadır.  </item>
+        <item>  Romalılar Carston\'a iki bin yıl önce geldiler ve üç yüz yıl kaldılar.   </item>
+        <item>  Bugün bile hâlâ Romalıların birçok izini görebilirsiniz.    </item>
+        <item>  Hâlâ üç kapılı inşa ettikleri büyük bir sur vardır: Ana kapı, Doğu kapı, Güney kapı.    </item>
+        <item>  Sur tamamlanmış değildir ama hâlâ üç giriş kapısını görebilirsiniz. </item>
+        <item>  Birçok turist Roma kalıntılarını görmek için Carston\'a gelir.   </item>
+        <item>  Carston tarihiyle ünlüdür ama 74,000 insanı olan modern de bir kasabadır.   </item>
+        <item>  Onlar çeşitli işlerde çalışır.  </item>
+        <item>  En yaygın meslek turizmdir ama yerel araba fabrikasında çalışan birçok insan da vardır. </item>
+        <item>  Fabrika dünyanın her yerinde ihraç edilen spor araba üretir.    </item>
+        <item>  Carston\'da başka fabrika vardır ve bu fabrikada dört yüz insan çalışır ve mikrodalga fırın üretirler.   </item>
+        <item>  Carston çok başarılı olmayan küçük bir futbol takımına ve daha başarılı olan ragbi takımına sahiptir.   </item>
+        <item>  Ragbi takımı üç yıl önce bölgesel şampiyonluk kazandı ve oyuncularından birisi olan Danny Biggs İngiltere için üç kez oynadı.   </item>
+        <item>  O hâlâ Carston\'da yaşıyor.  </item>
+        <item>  Emekli olmadan önce Carston ragbi takımında yeniden oynamak istiyor.    </item>
+        <item>  Bir diğer ünlü Carston sakini Hollywood film yıldızı Jason John Lee\'dir.    </item>
+        <item>  15 yaşındayken Carston\'dan ayrıldı ama ailesini ziyaret etmek için her yaz geri döner.  </item>
+        <item>  Şu an Jason\'ın okulunun Jason\'ın isminin verildiği küçük bir tiyatrosu vardır.  </item>
+        <!--<item>  Jason tiyatroyu inşa etmek için okuluna biraz para verdi.   </item>-->
+        <item>  Belki gelecekte Carstonlı başka ünlü aktörler olacak.   </item>
+    </string-array>
+
+    <string-array name="english_56">
+        <item>  We are warm-blooded animals.    </item>
+        <item>  The temperature inside us is generally higher than the temperature outside us.  </item>
+        <item>  It follows from this fact that, just as a kettle of hot water cools as it loses heat to the air around it, so the human body is continually losing heat.    </item>
+        <item>  But, unlike the kettle, it does not cool down, for all the time fresh quantities of heat are being generated inside.    </item>
+        <item>  The body is both making heat and losing some of it at the same time.    </item>
+        <item>  The loss of heat is controlled by a very delicate mechanism.    </item>
+        <item>  The body resembles a the most at heater in that while it gives off heat it manages to remain at the same temperature.   </item>
+    </string-array>
+
+
+    <string-array name="turkish_56">
+        <item>  Biz sıcakkanlı hayvanlarız. </item>
+        <item>  Bizim içimizdeki sıcaklık genellikle bizim dışımızdaki sıcaklıktan daha yüksektir.  </item>
+        <item>  O tıpkı etrafındaki havaya ısıyı kaybedene kadar sıcak suyun soğumasının bir su ısıtıcısı gibi bu gerçeği takip eder.   </item>
+        <item>  Fakat su ısıtıcısının aksine o serinlemez, ısının tüm zaman serin niteliği içinde oluşturulur.  </item>
+        <item>  Vücut hem ısı yapıyor hem de aynı zamanda onun bazısını kaybediyor. </item>
+        <item>  Isının kaybı çok hassas mekanizma tarafından kontrol edilir.    </item>
+        <item>  Vücut en iyi bir ısıtıcıya benzer çünkü o ısıyı yayarken o aynı sıcaklıkta kalmayı başarabilir. </item>
+    </string-array>
+
+    <string-array name="english_57">
+        <item>  The turning point of World War I came sometime in 1916. </item>
+        <item>  This was the year of the famous Battle of the Somme.    </item>
+        <item>  It was also the year when the Liberal Government in Britain was defeated after a crisis in industry and a sudden great rise in prices.  </item>
+        <item>  Lord Kitchener, the national hero and one who led the war, was tragically drowned in this same year.    </item>
+        <item>  Douglas Haig replaced Kitchener as the one to direct military policy, but he never became popular with the people as Kitchener had been, because he seemed coldly indifferent to the fates of the soldiers he commanded.    </item>
+    </string-array>
+
+
+    <string-array name="turkish_57">
+        <item>  1. Dünya Savaşı\'nın dönüm noktası 1916\'da bir aralar meydana geldi. </item>
+        <item>  Bu, ünlü Somme Muharebesi\'nin yılıydı.  </item>
+        <item>  Endüstride bir krizden ve fiyatlardaki ani bir artıştan sonra İngiltere\'de Liberal Hükumetin de yenildiği yıldı.    </item>
+        <item>  Milli kahraman olan ve savaşı yöneten Lord Kitchener aynı yılda üzücü bir şekilde boğuldu.  </item>
+        <item>  Douglas Haig askeri politikayı yönetecek kişi olarak Kitchener\'ın yerine geçti ama Kitchener\'ın olduğu kadar halk tarafından hiç sevilmedi çünkü komuta ettiği askerlerin kaderlerine hissizce kayıtsız görünüyordu.    </item>
+    </string-array>
+
+    <string-array name="english_58">
+        <item>  Classical music, strictly defined, means music produced in the Western world between 1750 and 1820.     </item>
+        <item>  This music included opera, chamber music, choral pieces, and music requiring a full orchestra.  </item>
+        <item>  To most, however, the term refers to all of the above types of music within most time periods before the 20th century.  </item>
+        <item>  In its limited definition, classical music includes the works of Haydn, Mozart and Beethoven.   </item>
+        <item>  From Mozart alone, there are a huge range of pieces to enjoy, as he wrote symphonies, music for quartets and quintets, chamber orchestra pieces, choral pieces, piano concertos, and entire operas.     </item>
+        <item>  In total, he wrote over 600 musical pieces.     </item>
+        <item>  "Classical" music may refer to the native and folk music of any country, although the styles vary greatly, depending upon available instruments.    </item>
+        <item>  For example, the classical music of Indonesia, with its use of the gamelan, is vastly different from what most would consider classical in the western world.   </item>
+        <item>  Folk traditions in other countries were often quite influential to western music, however, as musicians of the baroque and classical periods often adapted their works from folk music. </item>
+    </string-array>
+
+
+    <string-array name="turkish_58">
+        <item>  Klasik müzik açık bir şekilde tanımlamak gerekirse 1750 ve 1820 yılları arasında Batı dünyasında ortaya çıkarılmış müzik anlamına gelir.    </item>
+        <item>  Bu müzik opera, oda müziği, koro parçaları ve tam bir orkestrayı gerektiren müziği kapsar.  </item>
+        <item>  Ancak, en güncel anlamıyla bu terim 20.yy dan önceki yukarıdaki tüm müzik türlerini ifade etmektedir.   </item>
+        <item>  Sınırlı tanımlaması içerisinde klasik müzik Haydn, Mozart ve Beethoven’in eserlerini kapsamaktadır. </item>
+        <item>  Sadece Mozart’tan hoşa gidecek çok çeşitli parçalar vardır, çünkü o senfoniler, dört ve beş sesli müzik, oda orkestra eserleri, koro parçaları, piyano konçertoları ve bütün operaları yazmıştır.   </item>
+        <item>  Toplamda 600 den fazla müzik eseri yazmıştır.   </item>
+        <item>  “Klasik” müzik, mevcut enstrümanlara bağlı olarak her ne kadar stil büyük ölçüde değişse de bir ülkenin yerli ve halk müziğini ifade edebilir.  </item>
+        <item>  Örneğin, gamelan (Endonezya potporisi) kullanılan Endonezya klasik müziği çoğu insanın düşündüğü batı dünyasındaki klasik müzikten farklıdır.   </item>
+        <item>  Ancak barok ve klasik dönem müzisyenleri eserlerini çoğunlukla halk müziğine adapte ettikleri için diğer ülkelerdeki halk gelenekleri batı müziğinde etkili olmuştur.   </item>
+    </string-array>
+
+    <string-array name="english_59">
+        <item>  Therapists have to be very careful before they make a diagnosis of delusional disorder.     </item>
+        <item>  A great many complaints are founded on fact.    </item>
+        <item>  It is possible that a patient is really being harassed at work, that her husband is deceiving her, or that her business partner is cheating her.    </item>
+        <item>  Indeed, therapists must be careful to mislabel facts as delusions, a trap known as \'the Martha Mitchell effect\'.    </item>
+        <item>  Martha Mitchell was the wife of former US attorney general John Mitchell.   </item>
+        <item>  In October 1972, he was accused of having ordered the break-in at the Democratic campaign headquarters in the Watergate Hotel in Washington, D.C.   </item>
+        <item>  Mrs Mitchell repeatedly told the press that her husband was being made a scape goat to protect the real culprit–President Richard M.Nixon.  </item>
+        <item>  The White House spread disinformation about Mrs Mitchell, saying she had a drinking problem and implying that her statements were delusional.   </item>
+        <item>  When the scandal was ultimately unravelled, Mrs Mitchell\'s statements were proved true and she was shown to be utterly sane and with no drinking problem.   </item>
+    </string-array>
+
+
+    <string-array name="turkish_59">
+        <item>  Terapistler kuruntusal bozukluğun bir teşhisini yapmadan önce çok dikkatli olmak zorundadırlar. </item>
+        <item>  Birçok farklı şikayetler gerçekler üzerine kurulur. </item>
+        <item>  Hastanın gerçekten işte rahatsız olması, kocasının onu aldatması, ya da iş arkadaşının onu aldatması muhtemeldir.   </item>
+        <item>  Gerçekte, terapistler Martha Mitchell etki olarak bilinen bir tuzak, kuruntular gibi, yanlış etiketlenen gerçeklere dikkatli olmalılar. </item>
+        <item>  M. Mitchell eski genel avukat John Mitchell\'in eşiydi.  </item>
+        <item>  1972 Ekim\'de o Washington\'da Watergate otelinde demokratik kampanya merkezinde zorla girilme emriyle suçlandı.  </item>
+        <item>  Mrs. Mitchell tekrar eden bir şekilde kocasının gerçek suçluyu korumak için bir günah keçisi olduğunu söyledi.  </item>
+        <item>  Başkan Richard M. Nixon Beyaz Saray Mrs Mitchell hakkında ifadelerinin kuruntu olduğunu ima ederek ve içki problemi olduğunu söyleyerek yanlış bilgi yaydı. </item>
+        <item>  Skandal nihayet çözüldüğü zaman, Mrs Mitchell\'in ifadeleri doğru olduğu ispatlandı ve o içki problemi olmadığı ile ve tamamen aklı başında olduğunu gösterdi.   </item>
+    </string-array>
+
+    <string-array name="english_60">
+        <item>  Immune deficiency, which in fact means an inadequate immune response, may occur for several reasons.    </item>
+        <item>  For example, it is a side effect of most chemotherapy drugs used to treat cancer.   </item>
+        <item>  Immune deficiency also occurs naturally.    </item>
+        <item>  Although the immune system is not functional at birth, infants are protected by antibodies they have received from their mother through the placenta, and infants who breastfeed also receive antibodies from their mother’s milk.  </item>
+        <item>  These antibodies offer protection until the infant’s own immune system develops during the first months of life.    </item>
+        <item>  In rare cases, the immune system fails to develop, leaving the child without immune protection.     </item>
+        <item>  Exposure to any virus or bacterium can be fatal to these children.  </item>
+        <item>  Therefore, they are sealed into sterile quarters to isolate them from the microorganisms that are part of the normal world. </item>
+    </string-array>
+
+
+    <string-array name="turkish_60">
+        <item>  Aslında yetersiz bağışıklık yanıtı anlamına gelen bağışıklık yetmezliği birkaç sebepten dolayı meydana gelebilir.   </item>
+        <item>  Örneğin, kanseri tedavi etmek için kullanılan çoğu kemoterapi ilaçlarının bir yan etkisidir.    </item>
+        <item>  Bağışıklık yetmezliği doğal olarak da meydana gelir.    </item>
+        <item>  Bağışıklık sistemi doğumda işlevsel olmamasına rağmen, bebekler plasenta yoluyla annelerinden aldıkları antibiyotiklerle korunur ve anne sütüyle beslenen bebekler de annelerinin sütünden antibiyotik alırlar. </item>
+        <item>  Bu antibiyotikler hayatın ilk ayları sırasında bebeklerin kendi bağışıklık sistemleri gelişene kadar koruma sağlar. </item>
+        <item>  Nadir durumlarda bağışıklık sistemi çocuğu bağışıklık koruması olmadan bırakarak gelişemez. </item>
+        <item>  Herhangi bir virüse ya da bakteriye maruz kalma bu çocuklar için ölümcül olabilir.  </item>
+        <item>  Bu yüzden, normal dünyanın parçası olan mikroorganizmalardan ayrı tutmak için steril alanlara kapatılır.    </item>
+    </string-array>
+
+    <string-array name="english_61">
+        <item>  The world now recycles just over 50 per cent of the paper it uses.  </item>
+        <item>  Reprocessing plants are being established in most countries.    </item>
+        <item>  However, trees will never be fully spared because of the use of wood fibres themselves.     </item>
+        <item>  Pure pulp is rich in water, which provides for ample hydrogen bonding that holds fibres together when made into paper.  </item>
+        <item>  But each time a fibre is cleaned, de-inked and dried in are processing plant, only 80 per cent of the bonds are recovered.  </item>
+        <item>  After four or five recyclings, a fibre can no longer make strong enough bonds.  </item>
+        <item>  Engineers can do little that is economically viable to overcome this physical limitation, so they focus on reducing the cost of reprocessing fresher fibres.    </item>
+        <item>  One main challenge is finding a better way to neutralize “stickies”, which is the mess of adhesives from stamps, labels, seals, tape, magazine spines and various other sources, that jam the machinery.    </item>
+        <item>  The industry has been working for a decade to find a chemical process that will break down stickies, but no full solution has been found yet.   </item>
+    </string-array>
+
+
+    <string-array name="turkish_61">
+        <item>  Dünya şimdi kağıdın sadece %50\'si üzerinde geri dönüştürür kullanır.    </item>
+        <item>  Yeniden işlenen bitkiler çoğu ülkelerde kuruluyor.  </item>
+        <item>  Fakat ağaçlar asla kendilerini odun lifinin kullanımı yüzünden tamamen ayırmayacak. </item>
+        <item>  Saf posa kağıda dönüştüğü zaman lifleri tutan bol hidrojen bağı sağlayan suda zengindir.    </item>
+        <item>  Fakat her zaman bir lif temizleme sürecindedir temizlenir, kurutulur, sadece bağın % 80\'i iyileşir. </item>
+        <item>  4 ya da 5 geri dönüşümden sonra bir lif artık yeterince güçlü bağ yapmaz.   </item>
+        <item>  Mühendisler çok az yapabilir yani ekonomik olarak bu fiziksel sınırlılığın üstesinden gelmek için uygulanır.    </item>
+        <item>  Bir ana sorun makineyi sıkıştıran pul, etiket, mühür, bant, dergi sırtından yapışkanın dağınıklığını yapışkan etkisini yok etmek için en iyi yolu buluyor.  </item>
+        <item>  Endüstri yapışkanı bozacak kimyasal bir süreç bulmak için on yıl için çalışıyor durumdadır, fakat henüz tamamen çözüm bulunmamış durumdadır.    </item>
+    </string-array>
+
+    <string-array name="english_62">
+        <item>  The immediate cause of obesity is the prolonged consumption of a diet containing more calories than are needed to provide for the body’s tissue repair, vital functions and physical activities.    </item>
+        <item>  In modern society, food has become very plentiful and attractive, and the physical effort demanded by many occupations has diminished.  </item>
+        <item>  Most people in civilized communities eat more than they require, and it is surprising that obesity is not more common than it is.   </item>
+        <item>  It is difficult to escape the conclusion that there exists some unknown mechanism by which the body is enabled to get rid of the surplus calories which would otherwise be stored as fat.   </item>
+        <item>  If there were not such a mechanism, obesity would be much more common.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_62">
+        <item>  Obezitenin doğrudan sebebi, vücudun doku onarımı, önemli işlevleri ve fiziksel aktiviteler sağlamak için ihtiyaç duyulan kaloriden daha fazlasını içeren uzun bir diyet tüketimidir.    </item>
+        <item>  Modern toplumda besin çok bol ve çekici olmuş, ve birçok iş tarafından gereken fiziksel çaba azalmış durumdadır.    </item>
+        <item>  Medeni toplumlarda çoğu insan gerektiğinden daha çok yer ve obezitenin ondan daha yaygın olmaması şaşırtıcıdır. </item>
+        <item>  Vücudun aksi takdirde yağ olarak depolanacağı fazla kalorilerden kurtulmak için sağlandığı bazı bilinmeyen mekanizmaların var olduğu sonucundan kaçmak zordur.  </item>
+        <item>  Böyle bir mekanizma olmasaydı obezite çok daha yaygın olurdu.   </item>
+    </string-array>
+
+    <string-array name="english_63">
+        <item>  Edith Wharton is, perhaps, the greatest woman novelist that America has yet produced.   </item>
+        <item>  Her novels are skillfully constructed, an her style is smooth and elegant.  </item>
+        <item>  Her richest gifts, however, are the results of her fearless search for truth inhuman relationships.     </item>
+        <item>  She is largely interested in the emotions we all experience.    </item>
+        <item>  Her novels record timeless truths; and it is this fact above all that continues to make them meaningful and important.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_63">
+        <item>  Edit Wharton belki henüz Amerika\'nın ürettiği en büyük kadın romancıdır.    </item>
+        <item>  Onun romanları ustalıkla inşa edilmiştir, onun bir stili pürüzsüz ve şıktır.    </item>
+        <item>  En zengin hediyesi, fakat gerçek acımasız ilişkilerini araştırmada korkusuzluğunun sonucudur.   </item>
+        <item>  O büyük oranda tüm deneyimlerimizin duygularıyla ilgilenmiştir. </item>
+        <item>  Onun romanları sonsuz gerçeği kaydeder ve o onları anlamlı ve önemli yapmaya devam eden her şeyden önemlisi bu gerçektir.   </item>
+    </string-array>
+
+    <string-array name="english_64">
+        <item>  Not only the eyes and face but also the head, hands, legs and feet communicate information.     </item>
+        <item>  Ray Birdwhistell has embarked on an ambitious attempt to construct an entire linguistics of body communication, called ‘kinesics’.  </item>
+        <!--<item>  From extensive observation mainly in the United States, he identified sixty to seventy basic units of body movement and described rules of combination that produce meaningful units of body communication.     </item>-->
+        <item>  While some scholars feel that this may be somewhat ambiguous, there is a general agreement on some other issues.    </item>
+        <item>  For example, emblems which can be defined as gestures that replace or stand in for spoken language are widely understood across cultures, but many are culture-specific as put forward by almost all of the scholars.   </item>
+        <item>  Therefore, the same thing can be indicated by different gestures in different cultures, or, the same gestures can mean different things in different cultures.  </item>
+        <item>  For instance, most people refer to ‘self’ by pointing at their chest, while in Japan they put a finger to the nose. </item>
+    </string-array>
+
+
+    <string-array name="turkish_64">
+        <item>  Sadece gözler ve yüzler değil aynı zamanda baş, eller, bacaklar ve ayaklar bilgi iletişim kurar.    </item>
+        <item>  Ray Bidwhistle vücut iletişiminin tüm dilsel bir yapısı için tutkulu bir teşebbüse başlamış durumda.    </item>
+        <item>  Bazı bilim adamları bu kısmen belirsiz olabildiğini hissetmelerine rağmen, bazı diğer konular üzerinde genel bir anlaşma vardır.    </item>
+        <item>  Örneğin konuşma dili içinde yerini alan ya da yer değiştiren el kol hareketleri olarak tanımlanan işaretler yaygın bir şekilde kültür çapında anlaşılır, fakat birçoğu bilim adamlarının yaklaşık tümü tarafından farklı anlama gelebilir.  </item>
+        <item>  Bu yüzden aynı şey farklı kültürlerde farklı el kol hareketleri tarafından gösterilebilir, aynı el kol hareketleri farklı kültürlerde farklı şey anlamına gelebilir.    </item>
+        <item>  Örneğin, çoğu insan göğsünü göstererek kendinden bahsedebilir, oysa Japonya burnunu bir parmağıyla tutabilir.   </item>
+    </string-array>
+
+    <string-array name="english_65">
+        <item>  As Orson Welles said: “to practise his art, a poet needs a pen, and a painter a brush.  </item>
+        <item>  But a film-maker needs an army of actors, actresses and support staff”. </item>
+        <item>  Orson Welles learned the hard way that all this costs a fortune.    </item>
+        <item>  Few film directors are rich enough to finance their own films, and even fewer have the desire to take such a risk.  </item>
+        <item>  Therefore, directors are dependent on film studios for the financing of their films.    </item>
+        <item>  This has caused a certain tension between directors and film studios because film studios use their money to try to control the films they finance.     </item>
+        <item>  If a film, while it is being made, starts to become too expensive, the studio has to make a choice: it must either cancel the making of the film and lose all the money already invested in it, or go on investing heavily and hope the film will really be a great success.    </item>
+    </string-array>
+
+
+    <string-array name="turkish_65">
+        <item>  Orson Welles\'in söylediği gibi: "sanatını uygulamak için", bir şair bir kalem, ve bir ressam bir fırçaya ihtiyaç duyar. </item>
+        <item>  Fakat bir film yapımcısı aktör, aktris ve destek personelinin bir ordusuna ihtiyaç duyar.   </item>
+        <item>  Orson Welles bu tüm maliyetin bir şansını zor bir yolda öğrendi.    </item>
+        <item>  Birkaç film yönetmeni kendi filmlerini finanse etmek için yeterine zengindir ve çok azı bile böyle bir riski almak arzusuna sahiptir.   </item>
+        <item>  Bu yüzden, yönetmenler filmlerini finanse etmek için film stüdyolarına bağımlıdır.  </item>
+        <item>  Bu yönetmenler ve film stüdyoları arasında belli bir gerilime sebep oldu çünkü film stüdyoları filmleri kontrol etmeye çabalamak için paralarını kullanır.  </item>
+        <item>  Eğer bir film, oysa o yapılır, çok pahalı olmaya başlar, stüdyo bir seçim yapmak zorundadır: o ikisinden biri filmin yapılması ertelenir ve tüm kayıp paralar halen yatırım yapıldı, ya da yatırıma devam etmek yoğun bir şekilde ve filmi beklemek gerçekten büyük bir başarı olacak.  </item>
+    </string-array>
+
+    <string-array name="english_66">
+        <item>  Gas emissions are any gaseous material released, either naturally or artificially, into the atmosphere.     </item>
+        <item>  These gas emissions exist in a variety of forms: most notably water vapor, carbon dioxide, methane, nitrous oxide and ozone.    </item>
+        <item>  Each of these substances, while already existing in the atmosphere at certain levels, can be increased through various means, such as the burning of fossil fuels or the eruption of a volcano.     </item>
+        <item>  The effects of these gas emissions come in the form of the greenhouse effect.   </item>
+        <item>  Each of these gases absorb radiation in the atmosphere, increasing the temperature of the Earth.    </item>
+        <item>  Water vapor is the most prevalent gas emission on the planet and accounts for the largest percentage of impact to the greenhouse effect.    </item>
+        <item>  This is generally not caused by humans in abundance.    </item>
+        <item>  Two percent of the atmosphere is composed of water vapor, including the clouds, most of which stems from simple gas emission caused by evaporation.     </item>
+        <item>  This percentage, according to the Environmental Health Center of the National Safety Council, accounts for 66 percent of the greenhouse effect.     </item>
+        <item>  Since 1750, the gas emissions from humans have increased significantly, due to the onset of the Industrial Revolution.  </item>
+        <item>  These greenhouse gas emissions stem primarily from the burning of fossil fuels, deforestation, chlorofluorocarbons used in refrigeration and fertilizers.   </item>
+        <item>  Each of these culprits has been targeted during the late 20th and early 21st century by the “green movement,” an effort to reduce carbon emissions. </item>
+    </string-array>
+
+
+    <string-array name="turkish_66">
+        <item>  Gaz emisyonları ya doğal yoldan ya da yapay bir şekilde atmosfere salınan herhangi gazlı materyallerdir.    </item>
+        <item>  Bu gaz emisyonları çeşitli biçimlerde var olurlar: en dikkat çekenleri su buharı, karbon dioksit, metan, nitröz oksit ve ozondur.   </item>
+        <item>  Bu maddelerin her biri atmosferde belli seviyelerde hâlihazırda bulunurken, fosil yakıtların yanması ya da volkan patlaması gibi çeşitli yollarla artabilir.    </item>
+        <item>  Bu gaz emisyonlarının etkileri sera gazı etkisi şeklinde ortaya çıkar.  </item>
+        <item>  Bu gazların her biri dünyanın sıcaklığını arttırarak atmosferdeki radyasyonu emer.  </item>
+        <item>  Su buharı gezegendeki en yaygın gaz emisyonudur ve sera gazı etkisinin en büyük tesir oranını oluşturmaktadır.   </item>
+        <item>  Bu genellikle çok sayıdaki insanlardan kaynaklanmamaktadır. </item>
+        <item>  Atmosferin yüzde ikisi bulutları da içeren, çoğu buharlaşmadan kaynaklanan basit gazlardan gelen su buharından oluşmaktadır.    </item>
+        <item>  Milli Güvenlik Kurulu’nun Çevre Sağlığı Merkezi’ne göre bu yüzde sera gazı etkisinin yüzde 66’sını oluşturmaktadır. </item>
+        <item>  1750’den beri, insanlardan kaynaklanan gaz yayılımları Sanayi Devrimi’nin başlamasından dolayı önemli ölçüde artmıştır. </item>
+        <item>  Bu sera gazı yayılımları öncelikli olarak fosil yakıtların yanması, ormansızlaşma, buzdolabında kullanılan klorofluorokarbon ve gübrelerden kaynaklanmaktadır.  </item>
+        <item>  Bu kabahatlerin her biri 20.yy’ın sonları ve 21.yy’ın başlarında karbon yayılımlarını azaltma çabası olan “yeşil hareket” tarafından hedef gösterilmiştir.  </item>
+    </string-array>
+
+    <string-array name="english_67">
+        <item>  In the past decade the term \'internal marketing\' has emerged in many companies to describe the application of marketing internally within the firm.     </item>
+        <item>  This seems to be an area where practice appears ahead of theory.    </item>
+        <item>  Despite the existence of many internal marketing programs no books, at least in English, have been published on internal marketing and only a handful of articles have addressed this important and emerging area.  </item>
+        <item>  There are two key aspects to this.  </item>
+        <item>  One involves the notion of the internal customer.   </item>
+        <item>  That is, every person working within an organization is both a supplier and a customer.     </item>
+        <item>  Here we are concerned with getting staff to recognize that both individuals and departments have customers and then determining what can be done to improve levels of customer service and quality levels within the organization.  </item>
+        <item>  The second aspect is concerned with making certain that all staff work together in a manner that is attuned to the company\'s mission, strategy and goals.   </item>
+    </string-array>
+
+    <string-array name="turkish_67">
+        <item>  Geçen 10 yılda \'iç pazarlama\' terimi firma içinde içeriden pazarlamanın uygulamasını tanımlamak için birçok şirketlerde ortaya çıkmış durumdadır.   </item>
+        <item>  Bu uygulama teorinin ilerisinde göründüğü bir alan olmuş gibi görünür.  </item>
+        <item>  Birçok iç pazarlama programlarının varlığının kitabı olmamasına rağmen, en azından İngilizcede, iç pazarlama üzerine ve sadece bir avuç dolusu makale yayınlanmıştır bu önemli ve ortaya çıkan alana eğilmiştir.    </item>
+        <item>  Buna iki anahtar görünüş vardır.    </item>
+        <item>  Biri iç müşterinin görüşünü içerir. </item>
+        <item>  Yani, bir organizasyonda çalışan her kişi hem bir satıcı hem de bir müşteridir. </item>
+        <item>  Burada biz hem bireyler hem de bölümleri tanımak için personel ile ilgileniriz müşteriler ve ondan sonra organizasyonda nitelikli seviyeler ve müşteri hizmetinin seviyelerini geliştirmek için yapılabilen şeyi belirlemeye sahiptir.  </item>
+        <item>  İkinci özellik tüm personelin bir tarzda çalıştığı emin yapılmasıyla ilgilidir yani şirketin misyonu, stratejisi ve hedefiyle uyum sağlamıştır. </item>
+    </string-array>
+
+    <string-array name="english_68">
+        <item>  Fungi that infect the skin live only in the dead, topmost layer and don\'t penetrate deeper.     </item>
+        <item>  Some fungal infections cause no symptoms or produce only a small amount of irritation and redness.  </item>
+        <item>  Other fungal infections cause itching, swelling, and blisters.  </item>
+        <item>  Fungi usually make their homes in moist areas of the body where skin surfaces meet: between the toes, in the groin and under the breasts.   </item>
+        <item>  Obese people are more likely to get these infections because they have excessive skin folds.    </item>
+        <item>  Strangely, fungal infections on one part of the body can cause rashes on other parts of the body that aren\'t infected.  </item>
+        <item>  For example, a fungal infection on the foot may cause an itchy, bumpy rash on the fingers.  </item>
+        <item>  These eruptions represent allergic reactions to the fungus. </item>
+    </string-array>
+
+
+    <string-array name="turkish_68">
+        <item>  Cilde hastalık bulaştıran mantarlar sadece ölü, en üst katmanda yaşar ve daha derine nüfuz etmez.   </item>
+        <item>  Bazı mantar enfeksiyonları hiç belirtiye sebep olmazlar ve sadece küçük miktarda tahrişe ve kızarıklığa sebep olur. </item>
+        <item>  Diğer mantar enfeksiyonları kaşıntı, şişkinlik ve su kabarcıklarına sebep olur. </item>
+        <item>  Mantarlar ayak parmakları arasında, kasıkta, göğüs altında cilt yüzeylerinin buluştuğu vücudun nemli bölgelerinde yuvalarını yaparlar.  </item>
+        <item>  Obez insanların bu enfeksiyonları kapması daha muhtemeldir çünkü onlar aşırı deri kıvrımlarına sahiptir.    </item>
+        <item>  Tuhaf bir şekilde vücudun bir bölümündeki mantar enfeksiyonları, hastalık bulaşmamış vücudun diğer kısımlarında kızarıklıklara sebep olabilir.  </item>
+        <item>  Örneğin, ayaktaki bir mantar enfeksiyonu parmaklarda kaşıntılı, engebeli bir kızarıklığa sebep olabilir.    </item>
+        <item>  Bu döküntüler mantarlara karşı alerjik tepkileri yansıtır.  </item>
+    </string-array>
+
+    <string-array name="english_69">
+        <item>  Civil engineering offers a particular challenge because almost every structure or system that is designed and built by civil engineers is unique.   </item>
+        <item>  One structure rarely duplicates another exactly.    </item>
+        <item>  Even when structures seem to be identical, site requirements or other factors generally result in modifications.    </item>
+        <item>  Large structures like dams, bridges, or tunnels may differ substantially from previous structures.  </item>
+        <item>  The civil engineer must, therefore, always be ready and willing to meet new challenges. </item>
+    </string-array>
+
+    <string-array name="turkish_69">
+        <item>  İnşaat mühendisliği belirli bir sorun sunar çünkü inşaat mühendisleri tarafından tasarlanan ve inşa edilen neredeyse her yapı ya da sistem eşsizdir.    </item>
+        <item>  Bir yapı nadiren bir diğerinin tamamen aynısını yapar.  </item>
+        <item>  Yapılar benzer göründüğü zaman bile alan gereksinimleri ya da diğer etmenler genellikle değişiklikle sonuçlanır.    </item>
+        <item>  Barajlar, köprüler ya da tüneller gibi büyük yapılar önceki yapılardan büyük ölçüde farklılık gösterir. </item>
+        <item>  Bu yüzden inşaat mühendisleri yeni sorunlarla karşılaşmaya hazır ve istekli olmalılardır.   </item>
+    </string-array>
+
+    <string-array name="english_70">
+        <item>  The extension of French as a second or acquired language is particularly striking.  </item>
+        <item>  This was to some extent the result of military and political prestige, but the virtues of the language itself and French cultural achievements actually played a much greater role.     </item>
+        <item>  The lead which France took in the 12th century in literature and in other domains made its language a sort of lingua franca of the cultured classes of Europe; and in the 17th and 18th centuries French was cultivated assiduously by the royal courts and the upper classes of most European countries and was written by many nonFrench authors.     </item>
+        <item>  But even before the end of the 18th century French began to lose ground, and the movement was accelerated by the revival of national sentiment in Europe at the turn of the century and later by the rise of English under the influence of Britain and America.    </item>
+        <item>  Many things, however, have found their supreme expression in French; and its precision, beauty and eloquence make it a classical language in the true sense of the word.    </item>
+    </string-array>
+
+
+    <string-array name="turkish_70">
+        <item>  Fransızca\'nın ikinci bir dil ve kazanılmış bir dil olarak genişlemesi özellikle dikkat çekiyor. </item>
+        <item>  Bu askeri ve politik prestijin sonucu bir dereceye kadardı, fakat dilin değeri ve Fransızca kültürel başarılar aslında çok büyük bir rol oynadı.    </item>
+        <item>  Fransa\'nın edebiyatta ve diğer alanlarda 12. yüzyılda aldığı önderliği Avrupa\'nın kültürlü sınıflarının ortak dilin bir tür dilini yaptı; ve 17. yüzyılda ve 18. yüzyılda Fransa çoğu Avrupa ülkelerinin üst sınıfları ve kraliyet mahkemesi tarafından gayretli bir şekilde geliştirildi ve birçok Fransız olmayan yazar tarafından yazıldı.   </item>
+        <item>  Fakat 18. yüzyılın sonundan önce bile Fransa kayıplara uğramaya başladı, ve hareket yüzyılın başlangıcında Avrupa\'da ulusal düşüncenin canlanmasıyla ve sonra İngilitere ve Amerika\'nın etkisi altında İngilizce\'nin artışıyla hızlandırıldı.   </item>
+        <item>  Birçok şeyler fakat Fransızca\'da üst ifadeler bulunmuş durumdadır ve doğruluğu, güzelliği ve güzel konuşması dünyanın doğru algılamada klasik bir dil yapar.    </item>
+    </string-array>
+
+    <string-array name="english_71">
+        <item>  Family-owned companies are bad for business, a new study argues - at least when they dominate a large portion of a country\'s economy.   </item>
+        <item>  Outside the United States and Britain most major corporations are in the hands of a few wealthy families, rather than, as in the US and Britain, being owned by a wide network of shareholders.     </item>
+        <item>  The power of these small families often extends far beyond the companies they own directly, thanks to a system of "control pyramids" in which they exercise indirect control over a large number of smaller companies.  </item>
+        <item>  This concentration of corporate power doesn\'t merely leave a high percentage of wealth in the hands of billionaires –it also retards growth, diminishes efficiency, and limits economic freedom.    </item>
+        <item>  Moreover, "a tiny elite that cannot be sacked," as the study puts it, is likely to pursue "economic entrenchment", in which property rights and financial openness are restricted to protect a few families\' economic and political prerogatives or rights. </item>
+    </string-array>
+
+
+    <string-array name="turkish_71">
+        <item>  Aile şirketleri iş için kötüdür, yeni bir çalışma iddia eder- en azından onlar bir ülkenin ekonomisinin büyük bir bölümünde olduğu zaman.   </item>
+        <item>  Dış Amerika ve Britanya çoğu büyük şirketler hissedarların geniş bir ağı tarafından sahiplenilen Amerika ve Britanya da olduğun gibiden ziyade birkaç zengin ailelerin elindedir.   </item>
+        <item>  Bu küçük ailelerin gücü genellikle doğrudan kendi şirketlerinin ötesinde genişler, daha küçük şirketlerin büyük bir sayısı üzerinde doğrudan olmayan alıştırmalarında bir kontrol piramitlerinin sayesinde. </item>
+        <item>  Bu şirket gücünün konsantrasyonu yalnızca milyarderlerin ellerinde zenginliğin yüksek bir yüzdesi ayrılmaz, o aynı zamanda büyümeyi geciktirir, azaltır, etkiler ve ekonomik özgürlüğü sınırlar.    </item>
+        <item>  Dahası, çalışma ortaya koyduğu için işten atılmayan küçük bir elittir, uygun haklar ve finansal açıklıklar birkaç ailenin ekonomik, politik, ayrıcalık ya da haklarını korumak için sınırlandırdığı ekonomik sağlamlaşmayı takip etmek muhtemeldir. </item>
+    </string-array>
+
+    <string-array name="english_72">
+        <item>  Charlie Chaplin, who was born in Britain but spent most of his life in the United States, is one of the pivotal figures in film history.    </item>
+        <!--<item>  He is especially remembered for his work in the silent movies.  </item>
+        <item>  Chaplin knew that a successful scene was not simply about the starring actor, but about everything else.    </item>-->
+        <item>  The only way to achieve that unity was to get personally involved in every stage of the film; from starring in his films to producing, directing, editing them, and even to composing the music for them.   </item>
+        <item>  It was not uncommon for him to decide half-way through a film that an actor wasn’t suitable for a certain role, and start over with someone new.    </item>
+        <item>  This constant attention to detail ran many features overtime and over-budget, but the public reaction assured him and the studios that what he was doing worked.    </item>
+        <item>  Chaplin typically improvised his story in front of the camera with only a basic framework of a script.  </item>
+        <item>  But on consideration, his art turned out to be firmly rooted, and could be seen, for example, to draw much of its strength from his successful fusion of English and American cultures and traditions.  </item>
+    </string-array>
+
+
+    <string-array name="turkish_72">
+        <item>  İngiltere\'de doğan Charlie Chaplin fakat Amerika\'da yaşamının çoğunu harcamıştır.   </item>
+        <item>  O özellikle sessiz filmlerde çalışmalarıyla hatırlandı. </item>
+        <item>  Chaplin başarılı bir ekranın sadece başrol oyuncu hakkında olmadığını bildi fakat diğer her şey hakkındaydı.    </item>
+        <item>  Bir aktörün yeni birisiyle başladığını ve belli bir rol için uygun olmadığını bir filmin yarısında karar vermek onun için alışılmış değildi.    </item>
+        <item>  Bu ayrıntılar için sürekli dikkat zamanla birçok özelliği ve bütçeyi aşmaya çalıştı.    </item>
+        <item>  Fakat göz önüne alması, sanatını sıkıca kökleştirmiş olduğu ortaya çıktı, ve örneğin İngiliz ve Amerikan kültürler ve geleneklerin başarılı birleşmesinden gücünün çoğunu aldığı görülebilir.   </item>
+    </string-array>
+
+
+    <string-array name="english_73">
+        <item>  To succeed in school, children must master three skills – reading, writing and arithmetic – but not all students readily grasp these basic skills.  </item>
+        <item>  Among English-speaking children, an estimated 2 to 15% have trouble with reading or spelling, broadly classified as dyslexia.   </item>
+        <item>  From 1 to 7% struggle to do math, a disability known as dyscalculia.    </item>
+        <item>  Statistics vary but dyslexia appears to be more common among English speakers than among speakers of highly phonetic languages such as Turkish and Italian.     </item>
+        <item>  It is believed that at least one child in most elementary school classes in the US suffers from dyslexia.   </item>
+        <item>  Both dyslexia and dyscalculia defy easy explanation.    </item>
+        <item>  Neither disorder is the result of faulty eyesight or hearing, both of which can also delay language acquisition but are easily corrected.   </item>
+        <item>  Instead, children with dyslexia and dyscalculia have working sensory organs, apparently normal sensory and motor development and, sometimes, above-average intelligence.    </item>
+        <item>  After more than 15 years of research, investigators now believe these conditions frequently involve so-called partial functional deficits of the senses.    </item>
+        <item>  In affected children, the eyes and ears accurately register sights and sounds, letters, numbers and spoken syllables, but that information is misinterpreted as it is processed in the brain.   </item>
+    </string-array>
+
+    <string-array name="turkish_73">
+        <item>  Okullarda başarı için çocuklar okuma, yazma ve aritmetikle uzmanlaşmalı fakat tüm öğrenciler kolayca bu temel yetenekleri kolayca kavramaz. </item>
+        <item>  İngilizce konuşan öğrenciler arasında, tahmin edilen % 15\'i okuma, hecelemeyle başı beladadır, genel anlamda okuma güçlüğü olarak sınıflandı.   </item>
+        <item>  Matematik öğrenme bozukluğu olarak bilinen bir özürlülük matematiği 1\'den % 7\'ye yapmak için çabalar.   </item>
+        <item>  İstatistikler değişir fakat okuma güçlüğü örneğin Türkçe ve İtalyanca gibi fonetik dillerin konuşanları arasından İngilizce konuşanlar arasında son derece daha yaygınmış gibi görünür. </item>
+        <item>  En azından Amerika\'da ilk okul sınıflarında bir çocuğun okuma güçlüğünden çektiğine inanılır.   </item>
+        <item>  Hem okuma güçlüğü hemde matematik öğrenme güçlüğü kolay açıklamaya dayanır. </item>
+        <item>  Bozukluk aynı zamanda dil edinimini erteleyebilen görme ve duymanın sonucudur, fakat kolayca düzeltilir.    </item>
+        <item>  Yerine, okuma güçlüğü ve matematik öğrenme güçlüğüne sahip çocuklar temel duyusal organlar, motor gelişmeler ve bazen ortalamanın üstünde zekâya sahiptir.  </item>
+        <item>  Araştırmanın 15 yılından sonra, araştırmacılar şimdi sözde kısmi işlevsel duyumu sık sık içeren bu koşullara inanır.    </item>
+        <item>  Etkilenmiş öğrencilerde gözler ve kulaklar tam olarak görüş, ses, harf, sayı ve konuşma hecesi kaydeder, fakat bilgi beyindeki süreçler gibi yanlış yorumlanır. </item>
+    </string-array>
+
+
+    <string-array name="english_74">
+        <item>  Primary dental care typically refers to the regular, preventative care a patient receives from his or her dentist.  </item>
+        <item>  If the patient has any dental issues, the dentist may treat them, or they may refer the patient to a specialist.    </item>
+        <item>  This is where the "primary" comes from; it refers to the fact that the regular dentist is the patient\'s first point of contact for care, and the one who monitors his or her dental health on a regular basis.  </item>
+        <item>  The type of primary dental care that each person receives can vary depending on his or her specific needs and overall health.   </item>
+        <item>  In many cases, an individual will pay a lower insurance premium to visit his or her primary dentist than a specialist.  </item>
+        <item>  The most common example of primary dental care is a regular cleaning of the teeth and gums, also known as dental prophylaxis.   </item>
+        <item>  This is done to remove plaque and helps in preventing cavities or gum disease.  </item>
+        <item>  The dentist also examines the teeth at this time to make sure there are no existing problems that will require treatment.   </item>
+        <item>  This type of preventative care is very important for dental health, and is the reason that most people visit their dentists on a regular basis.     </item>
+        <item>  Most dentists recommend getting the teeth professionally cleaned every six months.  </item>
+    </string-array>
+
+    <string-array name="turkish_74">
+        <item>  Temel diş bakımı tipik olarak hastanın dişçisinden aldığı düzenli, koruyucu bakımı ifade eder.  </item>
+        <item>  Eğer hastanın dişle ilgili herhangi bir sorunu varsa, dişçi bunları tedavi edebilir ya da hastayı bir uzmana sevk edebilirler.  </item>
+        <item>  “temel” kelimesi buradan kaynaklanmaktadır: düzenli dişçi, hastanın bakım için iletişimde olduğu ilk noktası olduğunu ve kişinin diş sağlığını düzenli olarak takip eden kişi olduğunu ifade eder.  </item>
+        <item>  Her insanın aldığı temel diş bakımının türü kişinin özel gereksinimlerine ve tüm sağlığına göre değişebilir.    </item>
+        <item>  Birçok durumda, kişi bir uzmana gitmektense kendi özel dişçisine daha düşük bir sigorta primi öder. </item>
+        <item>  Temel diş bakımının en yaygın örneği diş profil aksisi olarak da bilinen diş ve diş etlerinin düzenli temizlenmesidir.  </item>
+        <item>  Bu diş kirlerini ortadan kaldırmak ve oyukları ya da diş eti hastalıklarını önlemeye yardım etmek için yapılır. </item>
+        <item>  Diş doktoru aynı zamanda tedavi gerektirecek herhangi bir hastalığın olmamasından emin olmak için dişleri bu sırada muayene eder.   </item>
+        <item>  Bu çeşit önleyici bakım diş sağlığı için çok önemlidir ve birçok insanın düzenli olarak dişçilerine gitmelerinin sebebidir. </item>
+        <item>  Çoğu diş doktoru her altı ayda bir dişlerin profesyonel olarak temizletilmesini tavsiye etmektedirler.  </item>
+    </string-array>
+
+
+    <string-array name="english_75">
+        <item>  Laughter’s social role is definitely important.     </item>
+        <item>  Today’s children may be heading for a whole lot of social ills because their play and leisure time is so isolated and they lose out on lots of chances for laughter.    </item>
+        <item>  When children stare at computer screens, rather than laughing with each other, they get so involved that they forget to laugh at all; this is contrary to what’s natural for them.  </item>
+        <item>  Natural social behaviour in children is playful behaviour, and in such situations laughter indicates that make-believe aggression is just fun, not serious.     </item>
+        <item>  This is an important way in which children form positive emotional ties, gain new social skills and generally start to move from childhood to adulthood.    </item>
+        <item>  Parents need to be very careful to ensure that their children play in groups and laugh more.    </item>
+    </string-array>
+
+    <string-array name="turkish_75">
+        <item>  Kahkahanın sosyal rolü kesinlikle önemlidir.    </item>
+        <item>  Bugünün çocukları sosyal hastalıkların birçoğuna yönelebiliyor çünkü oyunları ve boş zamanları o kadar izole olmuştur ve onlar kahkaha için şanların çoğunu kaybetmişlerdir.    </item>
+        <item>  Çocuklar bilgisayar ekranına birbirlerine kahkahadan ziyade baktığı zaman, onlar hiç mi hiç kahkahayı unutmadıkları böylece ilişkili olur.  </item>
+        <item>  Çocuklardaki doğal sosyal davranışlar şakacı davranışlardır ve böyle durumlarda kahkaha hayal ürünü sinirlilik sadece eğlenceli olduğunu ciddi olmadığını gösterir. </item>
+        <item>  Bu pozitif duygusal bağlardan öğrenen çocuklarda önemli bir yoldur, yeni sosyal beceriler kazanır ve genellikle çocukluktan yetişkinliğe taşınmaya başlar.  </item>
+        <item>  Ebeveynler çocuklarını daha fazla kahkaha ve gruplarda oyunları garanti etmek için çok dikkatli olmak zorundadır.   </item>
+    </string-array>
+</resources>

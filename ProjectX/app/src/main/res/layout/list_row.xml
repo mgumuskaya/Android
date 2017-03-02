@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/paragraph_layout">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorTitleBG"
+        android:gravity="center"
+        android:padding="@dimen/text_view_padding"
+        android:textColor="@color/colorTitle" />
+
+    <TextView
+        android:id="@+id/tv_english"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorEnglishBG"
+        android:textIsSelectable="true"
+        android:padding="@dimen/text_view_padding"
+        android:textColor="@color/colorEnglish" />
+
+    <TextView
+        android:id="@+id/tv_turkish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorTurkishBG"
+        android:textIsSelectable="true"
+        android:padding="@dimen/text_view_padding"
+        android:textColor="@color/colorTurkish" />
+
+</LinearLayout>

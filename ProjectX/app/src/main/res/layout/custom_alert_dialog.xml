@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#282828"
+    android:orientation="vertical">
+
+    <TextView
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/text_view_padding"
+        android:background="#282828"
+        android:textColor="#00FF00"
+        android:typeface="monospace"
+        android:id="@+id/my_word" />
+
+    <TextView
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/text_view_padding"
+        android:background="#282828"
+        android:textColor="#00FF00"
+        android:typeface="monospace"
+        android:id="@+id/my_translate" />
+
+    <Button
+        android:text="TAMAM"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/text_view_padding"
+        android:background="@drawable/btn_bg"
+        android:textColor="#bce5d8"
+        android:id="@+id/btn_ok" />
+</LinearLayout>

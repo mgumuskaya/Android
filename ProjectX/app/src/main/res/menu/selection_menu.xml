@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/translate"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/s_translate"
+        android:visible="true"/>
+    <item
+        android:id="@+id/tag_it"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/s_tag_it"
+        android:visible="true"/>
+    <item
+        android:id="@+id/translate_google"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/s_translate_g"
+        android:visible="true"/>
+    <item
+        android:id="@+id/close"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/s_close"
+        android:visible="true"/>
+
+</menu>
